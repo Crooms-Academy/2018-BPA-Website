@@ -3,12 +3,12 @@
 .App {
   text-align: center;
   font-family: 'Raleway', sans-serif;
-  background-color: #D6BA8A;
+  background-color: #000E44;
 }
 
 
 .App-header {
-  background-color: #000E44;
+  background-color: #D6BA8A;
   min-height: 5%;
   display: flex;
   flex-direction: column;
