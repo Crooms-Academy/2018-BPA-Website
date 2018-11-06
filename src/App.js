@@ -39,7 +39,6 @@ const homeWindow = () => (
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
     <br/>
     <br/>
-    <hr/>
     <br/>
   </div>
 );
