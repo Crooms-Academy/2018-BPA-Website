@@ -4,7 +4,7 @@
   text-align: center;
   font-family: 'Raleway', sans-serif;
   background-color: #CC304F;
-  color:white;
+  color: black;
 }
 
 
@@ -190,6 +190,7 @@ body{
 p{
   width:80%;
   margin-left:10%;
+  color: black;
 }
 
 input{
