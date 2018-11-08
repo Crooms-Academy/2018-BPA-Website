@@ -55,6 +55,7 @@ const transportWindow = () => (
     <Link to="/food"><button class="food">🍕 Food</button></Link>
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
     <br/>
+  <br/>
     <Parallax blur={10} bgImage={require('./taxi.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
             <h1>Transportation</h1>
@@ -76,6 +77,7 @@ const foodWindow = () => (
     <Link to="/food"><button class="food">🍕 Food</button></Link>
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
     <br/>
+  <br/>
     <Parallax blur={10} bgImage={require('./pizza.jpeg')} bgImageAlt="map" strength={500}>
            <div class="box">
             <h1>Food</h1>
@@ -100,6 +102,7 @@ const attractionWindow = () => (
     <Link to="/food"><button class="food">🍕 Food</button></Link>
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
     <br/>
+  <br/>
     <Parallax blur={10} bgImage={require('./whitehouse.JPG')} bgImageAlt="map" strength={500}>
            <div class="box">
             <h1>Attractions</h1>
@@ -441,6 +444,7 @@ const dressWindow = () => (
     <Link to="/food"><button class="food">🍕 Food</button></Link>
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
     <br/>
+  <br/>
     <Parallax blur={10} bgImage={require('./suit.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
             <h1>Dress Code</h1>
@@ -510,10 +514,8 @@ const mapsWindows = () => (
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
-    <br/>
-    <br/>
-    <hr/>
-    <br/>
+   <br/>
+  <br/>
     <Parallax blur={10} bgImage={require('./map.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
             <h1>Maps</h1>
