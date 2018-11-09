@@ -9,6 +9,8 @@ import Lyft from "./lyft.png";
 import Sidecar from "./sidecar.png";
 import Map from "./map.jpg";
 import { Parallax, Background } from 'react-parallax';
+import WhiteHouse from "./whitehouse.JPG";
+import Subway from "./subway.jpg";
 
 const App = () => (
 
@@ -27,10 +29,11 @@ const App = () => (
 
 
 const homeWindow = () => (
-  <div className="App">
+  <div className="HomeApp">
     <header className="App-header">
     <h1>BPA Nationals</h1>
     </header>
+    <div class="nav">
     <Link to="/home"><button class="home">🏠 Home</button></Link>
     <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
@@ -39,7 +42,11 @@ const homeWindow = () => (
     <Link to="/dresscode"><button class="dresscode">👔 Dress Code</button></Link>
     <br/>
     <br/>
-    <br/>
+    </div>
+    <img class="WhiteHouse" src={WhiteHouse} />
+    <h1 class="HouseText">Explore American Monuments.</h1>
+    <h1 class="SubText">Take a ride on the Subway.</h1>
+    <img class="Subway" src={Subway} />
   </div>
 );
 
@@ -451,7 +458,7 @@ const dressWindow = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
-    <h1>NLC Dress Code</h1>
+    <h1 class="title">NLC Dress Code</h1>
     <p>In order to promote a professional atmosphere, BPA’s Board of Trustees has developed the following official dress code policy for the Business Professionals of America National Leadership Conference. Students, advisors and chaperones must follow the dress code. It is recommended that all guests follow established dress code policy.</p>
     <p>Members not dressed in required attire will not be allowed to participate in any session or any competitive event. Members not adhering to the Professional Dress Code will not be allowed on stage.</p>
     <p>Members refused entrance to an event will be given the opportunity to change into appropriate attire immediately and participate/compete in the event. Having changed into appropriate attire, the member will join testing in progress. No additional time will be given for time missed.</p>
@@ -500,6 +507,8 @@ const dressWindow = () => (
               <p>Clothing with inappropriate words and pictures.</p>
 
       <p><b>Swim suits</b> must be covered with appropriate attire while in any area except the swimming pool or designated sunbathing area.</p>
+      <br/>
+      <br/>
   </div>
 );
 

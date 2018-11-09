@@ -7,6 +7,15 @@
   color: black;
 }
 
+.HomeApp {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+}
+
+.nav{
+  background-color: #CC304F;
+}
 
 .App-header {
   background-color: #000E44;
@@ -190,7 +199,7 @@ body{
 p{
   width:80%;
   margin-left:10%;
-  color: black;
+  color: white;
 }
 
 input{
@@ -264,4 +273,43 @@ border: none;
   padding: 10px;
   margin-top:200px;
   margin-left:30%;
+}
+
+h1{
+  font-weight: 900;
+}
+
+.title{
+  color:white;
+}
+
+h2{
+  color:white;
+}
+
+.WhiteHouse{
+  width:40%;
+  margin-left:-50%;
+  margin-top: 50px;
+  border-radius: 30px;
+}
+
+.HouseText{
+  width:40%;
+  margin-left: 50%;
+  margin-top: -150px;
+}
+
+.Subway{
+  width:40%;
+  margin-left:-50%;
+  margin-top: 200px;
+  border-radius: 30px;
+}
+
+.SubText{
+  width:40%;
+  margin-left: 50%;
+  margin-top: 300px;
+  position:absolute;
 }
