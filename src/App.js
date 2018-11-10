@@ -11,6 +11,7 @@ import Map from "./map.jpg";
 import { Parallax, Background } from 'react-parallax';
 import WhiteHouse from "./whitehouse.JPG";
 import Subway from "./subway.jpg";
+import Pizza from "./pizza.jpeg"
 
 const App = () => (
 
@@ -43,10 +44,14 @@ const homeWindow = () => (
     <br/>
     <br/>
     </div>
+    <br/>
+    <h1>While at BPA Nationals: </h1>
     <img class="WhiteHouse" src={WhiteHouse} />
     <h1 class="HouseText">Explore American Monuments.</h1>
-    <h1 class="SubText">Take a ride on the Subway.</h1>
     <img class="Subway" src={Subway} />
+    <h1 class="SubText">Take a ride on the Subway.</h1>
+    <img class="Pizza" src={Pizza} />
+    <h1 class="ZaText">Eat the world-class food.</h1>
   </div>
 );
 
