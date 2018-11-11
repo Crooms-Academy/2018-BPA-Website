@@ -343,6 +343,10 @@ ul{
   color:white;
 }
 
+.burger{
+  width:60%;
+}
+
 p{
   font-weight:bold;
 }

@@ -13,6 +13,8 @@ import WhiteHouse from "./whitehouse.JPG";
 import Subway from "./subway.jpg";
 import Pizza from "./pizza.jpeg";
 import Dress from "./dress.jpg";
+import Burger from "./burger.jpeg";
+import Salmon from "./salmon.jpeg";
 
 const App = () => (
 
@@ -122,6 +124,10 @@ const foodWindow = () => (
   </ul>
   <br/>
 
+<img class="burger" src={Burger}/>
+
+<br/>
+
   <h2>Outside the Hotel</h2>
   <p>Starbucks - Coffee</p>
   <ul>
@@ -153,6 +159,12 @@ const foodWindow = () => (
   <li>.1 mile - 2 min walk</li>
   <li>Hours: 11:30 am - 10pm</li>
   </ul>
+  <br/>
+
+  <img class="burger" src={Salmon}/>
+
+  <br/>
+  <br/>
   <br/>
   </div>
 
