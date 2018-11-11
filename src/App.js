@@ -11,7 +11,8 @@ import Map from "./map.jpg";
 import { Parallax, Background } from 'react-parallax';
 import WhiteHouse from "./whitehouse.JPG";
 import Subway from "./subway.jpg";
-import Pizza from "./pizza.jpeg"
+import Pizza from "./pizza.jpeg";
+import Dress from "./dress.jpg";
 
 const App = () => (
 
@@ -94,12 +95,13 @@ const foodWindow = () => (
            <div class="box">
             <h1>Food</h1>
            </div>
-           <div style={{ height: '300px' }} />
+           <div style={{height: '300px'}} />
        </Parallax>
     <div className="foodContent">
-        //Place Content here
+  <h2></h2>
     </div>
   </div>
+
 );
 
 const attractionWindow = () => (
@@ -468,11 +470,10 @@ const dressWindow = () => (
     <p>Members not dressed in required attire will not be allowed to participate in any session or any competitive event. Members not adhering to the Professional Dress Code will not be allowed on stage.</p>
     <p>Members refused entrance to an event will be given the opportunity to change into appropriate attire immediately and participate/compete in the event. Having changed into appropriate attire, the member will join testing in progress. No additional time will be given for time missed.</p>
     <p>Members also have the right to grieve the issue immediately after being refused entrance. Grievance of the Dress Code policy will not be accepted if not received in writing at Competitive Events headquarters within 15 minutes of the infraction in question.</p>
-
+<img class="dress" src={Dress} />
     <h2>Professional Dress Code</h2>
         <p><i>Required for the following events: General Sessions, all Competitive Events (judged, non-judged, and open), Campaign Rally, Caucuses, Workshops, National Leadership Academy.</i></p>
         <h3>Women:</h3>
-
               <p>Pant or skirt suit.</p>
               <p>Dress skirt or dress slacks with coordinated blouse and/or sweater.</p>
               <p>Business professional “dress.”</p>
@@ -480,9 +481,7 @@ const dressWindow = () => (
               <p>Dress shoes or dress sandals with heel are required with all of the above.</p>
               <p>Skirt length may be no greater than two inches above the top of the knee.</p>
               <p>This excludes all denim for any of the above.</p>
-
         <h3>Men:</h3>
-
               <p>Dress slacks, dress shirt, and tie.</p>
               <p>Suit, dress shirt, and tie.</p>
               <p>Sport coat, coordinated dress slacks, dress shirt, and tie.</p>
