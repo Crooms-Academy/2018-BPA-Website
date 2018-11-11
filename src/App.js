@@ -190,36 +190,34 @@ const attractionWindow = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
      <div align="left">
-     <p align="center"><i>Washington addresses indicate quadrants--NW, NE, SE, SW--starting at the U.S. Capital. The axes are North Capital, South Capital, and East Capitol streets, and the National Mall.</i></p>
-     <p align="center"><i>Help keep the National Mall clean; place trash and recyclables in appropriate receptacles.</i></p>
-     <p align="center"><i>Please be aware that many monuments, memorials, and museums have limited to no parking available.</i></p>
-     <p align="center"><i>Always check ahead of time all monuments and memorials you wish to attend as many are undergoing renovation.</i></p>
-     <h1 align="center">Smithsonians</h1>
-     <ul>
-             <li><b><i>Policies/Prohibited Items</i></b></li>
+     <h1 class="title">Smithsonians</h1>
+
+             <h2>Policies/Prohibited Items</h2>
              <ul>
                   <li>Still and video photography is permitted for noncommercial in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
                   <li>Smoking is prohibited in all Smithsonian facilities.</li>
                   <li>Strollers are permitted in all museums*; a limited number of strollers are available for rent at the Zoo.</li>
                   <li>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</li>
                   <li><i>Some museums require visitors and/or bags to go through metal detectors or x-ray screenings. Please refer to the specific museum bellow to determine their policies. Those who are unable to go through the metal detector will be hand-screened with an electronic wand by security personnel.</i></li>
-                  <li>While on Smithsonian premises <b>NO VISITOR SHALL:</b></li>
-                  <ul>
-                        <li>Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms applies to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are religious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</li>
-                        <li>Display or carry placards, signs, or banners</li>
-                        <li>Destroy, damage, or remove property</li>
-                        <li>Climb upon any part of a building</li>
-                        <li>Use loud, abusive, or otherwise improper language</li>
-                        <li>Loiter, sleep, or participate in unwarranted assemblies</li>
-                        <li>Create any hazard to persons or things</li>
-                        <li>Perform obscene or indecent acts</li>
-                        <li>Engage in disorderly conduct</li>
-                        <li>Use, possess, or sell illegal drugs</li>
-                        <li>Bring dogs or other animals, other than service animals</li>
-                        <li>Take photographs for advertising or any other commercial purpose</li>
-                        <li>Solicit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</li>
                   </ul>
-             </ul>
+                  <br/>
+                  <h2><b>While on Smithsonian Property</b></h2>
+                  <ul>
+                        <li>Do not Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms applies to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are religious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</li>
+                        <li>Do not Display or carry placards, signs, or banners</li>
+                        <li>Do not Destroy, damage, or remove property</li>
+                        <li>Do not Climb upon any part of a building</li>
+                        <li>Do not Use loud, abusive, or otherwise improper language</li>
+                        <li>Do not Loiter, sleep, or participate in unwarranted assemblies</li>
+                        <li>Do not Create any hazard to persons or things</li>
+                        <li>Do not Perform obscene or indecent acts</li>
+                        <li>Do not Engage in disorderly conduct</li>
+                        <li>Do not Use, possess, or sell illegal drugs</li>
+                        <li>Do not Bring dogs or other animals, other than service animals</li>
+                        <li>Do not Take photographs for advertising or any other commercial purpose</li>
+                        <li>Do not Solicit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</li>
+                  </ul>
+
              <li><b><i>African American Museum</i></b></li>
              <ul>
                   <li><b>Address: </b>1400 Constitution Ave NW, Washington, DC</li>
@@ -377,7 +375,6 @@ const attractionWindow = () => (
                   <li>10 a.m. - 5:20 p.m.</li>
                   <li><i>All bags will be checked by hand.</i></li>
              </ul>
-     </ul>
      <h1 align="center">Memorials/Monuments</h1>
      <h2 class="h2ul">Arlington National Cemetery</h2>
      <ul>
@@ -458,7 +455,7 @@ const attractionWindow = () => (
                    <li><b>Hours: </b>Open 24/7</li>
             </ul>
       </ul>
-    <h1 align="center">Government Buildings</h1>
+    <h1 class="title">Government Buildings</h1>
     <p align="center"><i>Please be respectful of the appropriate etiquette at all times when on government grounds. Remember when at NLC you are not only representing your state and the national organization, but also yourself.</i></p>
     <ul>
             <li><b><i>United States Capital Building</i></b></li>
