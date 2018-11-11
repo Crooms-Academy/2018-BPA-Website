@@ -337,3 +337,12 @@ h3{
   width:100%;
   margin-top:30px;
 }
+
+ul{
+  list-style-position: inside;
+  color:white;
+}
+
+p{
+  font-weight:bold;
+}
