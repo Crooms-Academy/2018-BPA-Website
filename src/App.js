@@ -73,7 +73,7 @@ const transportWindow = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./taxi.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1>Transportation</h1>
+            <h1 class="paralaxtext">Transportation</h1>
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
@@ -95,7 +95,7 @@ const foodWindow = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./pizza.jpeg')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1>Food</h1>
+            <h1 class="paralaxtext">Food</h1>
            </div>
            <div style={{height: '300px'}} />
        </Parallax>
@@ -185,7 +185,7 @@ const attractionWindow = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./whitehouse.JPG')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1>Attractions</h1>
+            <h1 class="paralaxtext">Attractions</h1>
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
@@ -375,7 +375,7 @@ const attractionWindow = () => (
                   <li>10 a.m. - 5:20 p.m.</li>
                   <li><i>All bags will be checked by hand.</i></li>
              </ul>
-     <h1 align="center">Memorials/Monuments</h1>
+     <h1 class="title">Memorials/Monuments</h1>
      <h2 class="h2ul">Arlington National Cemetery</h2>
      <ul>
             <li><b><i>Women in Military Service for America Memorial</i></b></li>
@@ -524,7 +524,7 @@ const dressWindow = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./suit.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1>Dress Code</h1>
+            <h1 class="paralaxtext">Dress Code</h1>
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
@@ -594,7 +594,7 @@ const mapsWindows = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./map.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1>Maps</h1>
+            <h1 class="paralaxtext">Maps</h1>
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>

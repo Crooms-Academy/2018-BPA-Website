@@ -4,7 +4,7 @@
   text-align: center;
   font-family: 'Raleway', sans-serif;
   background-color: #CC304F;
-  color: black;
+  color: white;
 }
 
 .HomeApp {
@@ -350,4 +350,13 @@ ul{
 
 p{
   font-weight:bold;
+}
+
+.paralaxtext{
+  color:black;
+}
+
+a{
+  color:white;
+  font-weight: bold;
 }
