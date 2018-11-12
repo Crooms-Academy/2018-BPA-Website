@@ -380,3 +380,7 @@ a{
 .h1Content{
   color:#000E44;
 }
+
+ul {
+  font-weight: bold;
+}
