@@ -608,7 +608,7 @@ const dressWindow = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./suit.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1 class="paralaxtext">Dress Codet</h1>
+            <h1 class="paralaxtext">Dress Code</h1>
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
