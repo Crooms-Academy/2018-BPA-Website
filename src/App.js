@@ -37,7 +37,7 @@ const App = () => (
 const homeWindow = () => (
   <div className="HomeApp">
     <header className="App-header">
-    <h1>BPA Nationals</h1>
+    <h1>2020 National Leadership Conference</h1>
     </header>
     <div class="nav">
     <Link to="/home"><button class="home">🏠 Home</button></Link>
@@ -50,11 +50,11 @@ const homeWindow = () => (
     <br/>
     </div>
     <br/> 
-    <h1 class="h1Content">While at BPA Nationals: </h1>
+    <h1 class="h1Content">While at the 2020 BPA National Leadership Conference: </h1>
     <img class="WhiteHouse" src={WhiteHouse} />
     <h1 class="HouseText">Explore American Monuments.</h1>
     <img class="Subway" src={Subway} />
-    <h1 class="SubText">Take a ride on the Subway.</h1>
+    <h1 class="SubText">Ride on the Subway.</h1>
     <img class="Pizza" src={Pizza} />
     <h1 class="ZaText">Eat world-class food.</h1>
   </div>
@@ -63,7 +63,7 @@ const homeWindow = () => (
 const transportWindow = () => (
   <div className="App">
     <header className="App-header">
-    <h1>BPA Nationals</h1>
+    <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
     <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
@@ -92,7 +92,7 @@ const transportWindow = () => (
 const foodWindow = () => (
   <div className="App">
     <header className="App-header">
-    <h1>BPA Nationals</h1>
+    <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
     <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
@@ -183,7 +183,7 @@ const foodWindow = () => (
 const attractionWindow = () => (
   <div className="App">
     <header className="App-header">
-    <h1>BPA Nationals</h1>
+    <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
     <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
@@ -204,7 +204,7 @@ const attractionWindow = () => (
      <h1 class="title" color="#D6BA8A">Smithsonians</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
-                  <li>Still and video photography is permitted for noncommercial in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
+                  <li>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
                   <li>Smoking is prohibited in all Smithsonian facilities.</li>
                   <li>Strollers are permitted in all museums*; a limited number of strollers are available for rent at the Zoo.</li>
                   <li>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</li>
@@ -524,7 +524,7 @@ const attractionWindow = () => (
 const dressWindow = () => (
   <div className="App">
     <header className="App-header">
-    <h1>BPA Nationals</h1>
+    <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
     <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
@@ -599,7 +599,7 @@ const dressWindow = () => (
 const mapsWindows = () => (
   <div className="App">
     <header className="App-header">
-    <h1>BPA Nationals</h1>
+    <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
     <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
@@ -617,7 +617,7 @@ const mapsWindows = () => (
        </Parallax>
     <div class="divContent">
     <h2>The Hotel:</h2>
-    <p> This years National Convention will be held at the Gaylord Palms Resort in Washington DC. Use the following interactive map to explore the surrounding area.</p>
+    <p>The 2020 National Conference will be held at the Gaylord Palms Resort in Washington DC. Use the following interactive map to explore the surrounding area.</p>
     <iframe class="hotel" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.226301767285!2d-77.01896208465307!3d38.78144617958869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0734d793d5d%3A0x7fccb753cbe0c4f7!2sGaylord+National+Resort+%26+Convention+Center%2C+Fort+Washington%2C+MD+20745!5e0!3m2!1sen!2sus!4v1541349162518" allowfullscreen></iframe>
     <br/>
     <br/><br/>
