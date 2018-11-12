@@ -200,19 +200,17 @@ const attractionWindow = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
-     <div class="divContent">
-     <h1 class="title">Smithsonians</h1>
-
-             <h2>Policies/Prohibited Items</h2>
+     <div class="divContent" align="left">
+     <h1 class="title" color="#D6BA8A">Smithsonians</h1>
+             <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
                   <li>Still and video photography is permitted for noncommercial in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
                   <li>Smoking is prohibited in all Smithsonian facilities.</li>
                   <li>Strollers are permitted in all museums*; a limited number of strollers are available for rent at the Zoo.</li>
                   <li>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</li>
                   <li><i>Some museums require visitors and/or bags to go through metal detectors or x-ray screenings. Please refer to the specific museum bellow to determine their policies. Those who are unable to go through the metal detector will be hand-screened with an electronic wand by security personnel.</i></li>
-                  </ul>
-                  <br/>
-                  <h2><b>While on Smithsonian Property</b></h2>
+              </ul>
+              <h2 color="#D6BA8A"><b>While on Smithsonian Property</b></h2>
                   <ul>
                         <li>Do not Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms applies to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are religious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</li>
                         <li>Do not Display or carry placards, signs, or banners</li>
@@ -386,8 +384,8 @@ const attractionWindow = () => (
                   <li>10 a.m. - 5:20 p.m.</li>
                   <li><i>All bags will be checked by hand.</i></li>
              </ul>
-     <h1 class="title">Memorials/Monuments</h1>
-     <h2 class="h2ul">Arlington National Cemetery</h2>
+     <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
+     <h2 class="h2ul" color="#D6BA8A">Arlington National Cemetery</h2>
      <ul>
             <li><b><i>Women in Military Service for America Memorial</i></b></li>
             <ul>
@@ -410,7 +408,7 @@ const attractionWindow = () => (
                    <li><b>Hours: </b>6 a.m. - 12 a.m.</li>
             </ul>
       </ul>
-      <h2 class="h2ul">Tidal Basin</h2>
+      <h2 class="h2ul" color="#D6BA8A">Tidal Basin</h2>
       <ul>
             <li><b><i>Thomas Jefferson Memorial</i></b></li>
             <ul>
@@ -428,7 +426,7 @@ const attractionWindow = () => (
                    <li><b>Hours: </b>Open 24/7</li>
             </ul>
       </ul>
-      <h2 class="h2ul">National Mall</h2>
+      <h2 class="h2ul" color="#D6BA8A">National Mall</h2>
       <ul>
             <li><b><i>Lincoln Memorial</i></b></li>
             <ul>
@@ -466,7 +464,7 @@ const attractionWindow = () => (
                    <li><b>Hours: </b>Open 24/7</li>
             </ul>
       </ul>
-    <h1 class="title">Government Buildings</h1>
+    <h1 class="title" color="#D6BA8A">Government Buildings</h1>
     <p align="center"><i>Please be respectful of the appropriate etiquette at all times when on government grounds. Remember when at NLC you are not only representing your state and the national organization, but also yourself.</i></p>
     <ul>
             <li><b><i>United States Capital Building</i></b></li>
