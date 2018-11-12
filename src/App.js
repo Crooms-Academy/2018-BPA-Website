@@ -54,7 +54,7 @@ const homeWindow = () => (
     <img class="Subway" src={Subway} />
     <h1 class="SubText">Take a ride on the Subway.</h1>
     <img class="Pizza" src={Pizza} />
-    <h1 class="ZaText">Eat the world-class food.</h1>
+    <h1 class="ZaText">Eat world-class food.</h1>
   </div>
 );
 
@@ -105,25 +105,24 @@ const foodWindow = () => (
         <br/>
         <h2>Inside the Hotel</h2>
         <p>The Cocoa Bean Express - Coffee</p>
-        <ul>
-        <li>Hours: 5:30 pm - 9:30 pm</li>
-        </ul>
+        <p>Hours: 5:30 pm - 9:30 pm</p>
+        
         <p>Cocoa Bean Coffee House - Coffee</p>
-        <ul>
-        <li>Hours: All Day</li>
-        </ul>
+        
+        <p>Hours: All Day</p>
+        
         <p>Pienza Italian Market - Breakfast and Lunch</p>
-        <ul>
-        <li>Hours: 5:30 pm - 9:30 pm</li>
-        </ul>
+        
+        <p>Hours: 5:30 pm - 9:30 pm</p>
+        
         <p>National Pastime Sports Bar & Grill - Lunch and Dinner</p>
-        <ul>
-        <li>Hours: 11 am - 12 am</li>
-        </ul>
+        
+        <p>Hours: 11 am - 12 am</p>
+        
         <p>Old Hickory Steakhouse - Dinner</p>
-        <ul>
-        <li>Hours: 5:30 pm - 9:30 pm</li>
-        </ul>
+        
+        <p>Hours: 5:30 pm - 9:30 pm</p>
+        
         <br/>
 
       <img class="burger" src={Burger}/>
@@ -132,35 +131,35 @@ const foodWindow = () => (
 
         <h2>Outside the Hotel</h2>
         <p>Starbucks - Coffee</p>
-        <ul>
-        <li>167 Waterfront St, Oxon Hill, MD 20745</li>
-        <li>.2 mile - 4 min walk</li>
-        <li>Hours: 5:30 am- 10 pm</li>
-        </ul>
+        
+        <p>167 Waterfront St, Oxon Hill, MD 20745</p>
+        <p>.2 mile - 4 min walk</p>
+        <p>Hours: 5:30 am- 10 pm</p>
+        
         <p>Public House National Harbor - Breakfast, Lunch, and Dinner</p>
-        <ul>
-        <li>199 Fleet St, Oxon Hill, MD 20745</li>
-        <li>.1 mile - 2 min walk</li>
-        <li>Hours: 9 am - 2 am</li>
-        </ul>
+        
+        <p>199 Fleet St, Oxon Hill, MD 20745</p>
+        <p>.1 mile - 2 min walk</p>
+        <p>Hours: 9 am - 2 am</p>
+        
         <p>Grace’s Mandarin - Lunch and Dinner</p>
-        <ul>
-        <li>188 Waterfront St, Oxon Hill, MD 20745</li>
-        <li>.1 mile - 2 min walk</li>
-        <li>Hours: 11:30 am - 10 pm</li>
-        </ul>
+        
+        <p>188 Waterfront St, Oxon Hill, MD 20745</p>
+        <p>.1 mile - 2 min walk</p>
+        <p>Hours: 11:30 am - 10 pm</p>
+        
         <p>Brother Jimmy’s BBQ - Lunch and Dinner</p>
-        <ul>
-        <li>1177 Fleet St, Oxon Hill, MD 20745</li>
-        <li>.1 mile - 2 min walk</li>
-        <li>Hours: 11:30 am - 2 am</li>
-        </ul>
+        
+        <p>1177 Fleet St, Oxon Hill, MD 20745</p>
+        <p>.1 mile - 2 min walk</p>
+        <p>Hours: 11:30 am - 2 am</p>
+        
         <p>Succotash - Lunch and Dinner</p>
-        <ul>
-        <li>186 Waterfront St, Oxon Hill, MD 20745</li>
-        <li>.1 mile - 2 min walk</li>
-        <li>Hours: 11:30 am - 10pm</li>
-        </ul>
+        
+        <p>186 Waterfront St, Oxon Hill, MD 20745</p>
+        <p>.1 mile - 2 min walk</p>
+        <p>Hours: 11:30 am - 10pm</p>
+        
         <br/>
 
         <img class="burger" src={Salmon}/>
@@ -509,7 +508,7 @@ const attractionWindow = () => (
                    <li><b>Hours: </b></li>
             </ul>
     </ul>
-  </div></div></div>
+  </div></div>
 );
 
 const dressWindow = () => (
