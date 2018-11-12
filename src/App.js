@@ -50,7 +50,7 @@ const homeWindow = () => (
     <br/>
     </div>
     <br/> 
-    <div class="divContent>
+    <div class="divContent">
     <h1 class="h1Content">While at BPA Nationals: </h1>
     <img class="WhiteHouse" src={WhiteHouse} />
     <h1 class="HouseText">Explore American Monuments.</h1>
