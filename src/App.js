@@ -58,7 +58,7 @@ const homeWindow = () => (
     <h1 class="ZaText">Eat world-class food.</h1>
     <br/>
     <br/>
-    <br/>
+    <br/><br/><br/><br/><br/><br/>
     <img class="Logo" src={Logo} />
     <br/><br/><br/>
   </div>
