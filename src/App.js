@@ -21,6 +21,8 @@ import BlueLoop from "./Blue-Loop.jpg";
 import Metro from "./Metro.png";
 import Convention from "./Convention.png";
 import Smithsonian from "./Smithsonian-Logo.png";
+import NationalMall from "./National-Mall.png";
+
 const App = () => (
 
   <HashRouter>
@@ -681,6 +683,9 @@ const mapsWindows = () => (
       <img class="RedLoop" src={RedLoop} />
       <br/>
       <br/>
+    <h2>National Mall</h2>
+    <p><i>Use the following map to help you navigate the National Mall</i></p>
+    <img src={NationalMall} /} <br/><br/>
       <img class="Logo" src={Logo} />
       </div>
       <br/>
