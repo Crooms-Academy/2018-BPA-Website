@@ -15,6 +15,7 @@ import Pizza from "./pizza.jpeg";
 import Dress from "./dress.jpg";
 import Burger from "./burger.jpeg";
 import Salmon from "./salmon.jpeg";
+import Logo from "./BPA-logo.png";
 
 const App = () => (
 
@@ -78,7 +79,13 @@ const transportWindow = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
   <div class="divContent">
-  </div></div>
+    <br/>
+    <br/>
+    <br/>
+    <img class="Logo" src={Logo} />
+    </div>
+    <br/><br/><br/>
+  </div>
 );
 
 const foodWindow = () => (
@@ -167,7 +174,9 @@ const foodWindow = () => (
         <br/>
         <br/>
         <br/>
+        <img class="Logo" src={Logo} />
     </div>
+    <br/><br/><br/>
   </div>
 
 );
@@ -508,7 +517,10 @@ const attractionWindow = () => (
                    <li><b>Hours: </b></li>
             </ul>
     </ul>
-  </div></div>
+    <br/><br/><br/>
+    <img class="Logo" src={Logo} />
+    </div>
+    <br/><br/><br/></div>
 );
 
 const dressWindow = () => (
@@ -579,7 +591,11 @@ const dressWindow = () => (
       <p><b>Swim suits</b> must be covered with appropriate attire while in any area except the swimming pool or designated sunbathing area.</p>
       <br/>
       <br/>
-  </div></div>
+      <br/>
+      <img class="Logo" src={Logo} />
+      </div>
+      <br/><br/><br/>
+      </div>
 );
 
 const mapsWindows = () => (
@@ -609,8 +625,13 @@ const mapsWindows = () => (
     <iframe class="hotel" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.226301767285!2d-77.01896208465307!3d38.78144617958869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0734d793d5d%3A0x7fccb753cbe0c4f7!2sGaylord+National+Resort+%26+Convention+Center%2C+Fort+Washington%2C+MD+20745!5e0!3m2!1sen!2sus!4v1541349162518" allowfullscreen></iframe>
     <br/>
     <br/>
-    <hr/>
-  </div></div>
+    <hr/><br/>
+      <br/>
+      <br/>
+      <img class="Logo" src={Logo} />
+      </div>
+      <br/><br/><br/>
+      </div>
 );
 
 
