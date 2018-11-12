@@ -504,7 +504,7 @@ const attractionWindow = () => (
     <h1 class="title" color="#D6BA8A">Government Buildings</h1>
     <p align="center"><i>Please be respectful of the appropriate etiquette at all times when on government grounds. Remember when at NLC you are not only representing your state and the national organization, but also yourself.</i></p>
     <ul>
-            <li><b><i>United States Capital Building</i></b></li>
+            <h2><b><i>United States Capital Building</i></b></h2>
             <ul>
                    <li><a href="https://www.visitthecapitol.gov/" rel="nofollow" target="_blank">Capital Building Website</a></li>
                    <li><b>Address: </b>First St NE, Washington, DC 20515</li>
@@ -546,7 +546,7 @@ const attractionWindow = () => (
                         <li>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some holiday periods, the availability of same-day tour passes may be limited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></li>
                   </ul>
             </ul>
-            <li><b><i>White House</i></b></li>
+            <h2><b><i>White House</i></b></h2>
             <ul>
                    <li><a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" rel="nofollow" target="_blank">White House Tour Page</a></li>
                    <li><b>Address: </b>1600 Pennsylvania Ave NW, Washington, DC 20500</li>
