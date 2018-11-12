@@ -239,7 +239,7 @@ const attractionWindow = () => (
        </Parallax>
      <div class="divContent">
      <div align="left">
-     <h1 class="title" color="#D6BA8A">SmithsoniansT</h1>
+     <h1 class="title" color="#D6BA8A">Smithsonians</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
                   <li>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
@@ -363,6 +363,7 @@ const attractionWindow = () => (
                         <li>Smoke or carry lighted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises</li>
                         <li>Damage, deface, pick, or remove any herb, shrub, bush, tree, or turf, or portion thereof</li>
                   </ul>
+                  </li>
              </ul>
              <li><b><i>Natural History Museum</i></b></li>
              <ul>
