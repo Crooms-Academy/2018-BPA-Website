@@ -100,7 +100,7 @@ const transportWindow = () => (
     <h1>D.C. Hop-On Hop-Off Trolley Tour from Gaylord National</h1>
     <p>With 25 stops it's easy to tour the capital region with the Old Town Trolley Hop-On Hop-Off Tour. Discover D.C.’s top attractions at your own pace, including the White House, Lincoln Memorial and the only tour to take you into the Arlington National Cemetery.</p>
     <br/>
-    <p><b>Shuttle Time:</b><p>
+    <p><b>Shuttle Time:</b></p>
     <p>Gaylord National Resort (pick up in the bus loop) 7 days a week</p>
     <p>Departs: 8:35am</p>
     <p>Returns: 5:30pm</p>
