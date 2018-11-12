@@ -14,6 +14,9 @@ import Subway from "./subway.jpg";
 import Pizza from "./pizza.jpeg";
 import Dress from "./dress.jpg";
 import Logo from "./BPA-logo.png";
+import Burger from "./burger.jpg";
+import Salmon from "./salmon.jpeg";
+
 
 const App = () => (
 
@@ -129,7 +132,7 @@ const foodWindow = () => (
         
         <br/>
 
-      
+      <img class="burger" src={Burger}/>
 
       <br/>
 
@@ -166,7 +169,7 @@ const foodWindow = () => (
         
         <br/>
 
-        
+        <img class="burger" src={Salmon}/>
 
         <br/>
         <br/>
