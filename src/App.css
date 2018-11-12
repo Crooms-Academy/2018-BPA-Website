@@ -199,7 +199,7 @@ body{
 p{
   width:80%;
   margin-left:10%;
-  color: white;
+  color:#000E44;
 }
 
 input{
@@ -341,7 +341,7 @@ h3{
 
 ul{
   list-style-position: inside;
-  color:white;
+  color:#000E44;
 }
 
 .burger{
