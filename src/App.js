@@ -546,7 +546,7 @@ const attractionWindow = () => (
                   </ul>
             </ul>
             
-            <li><h2><b><i>White House</i></b></h2></li>
+            <h2><b><i>White House</i></b></h2>
             <ul>
                    <a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" rel="nofollow" target="_blank">White House Tour Page</a>
                    <li><b>Address: </b>1600 Pennsylvania Ave NW, Washington, DC 20500</li>
@@ -583,7 +583,7 @@ const attractionWindow = () => (
                 </ul>
             </ul>
             
-            <li><b><i>Supreme Court</i></b></li>
+            <b><i>Supreme Court</i></b>
             <ul>
                    <li><b>Address: </b></li>
                    <li><b>Hours: </b></li>
