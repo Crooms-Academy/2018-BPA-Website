@@ -20,7 +20,7 @@ import RedLoop from "./Red-Loop.jpg";
 import BlueLoop from "./Blue-Loop.jpg";
 import Metro from "./Metro.png";
 import Convention from "./Convention.png";
-
+import Smithsonian from "./Smithsonian-Logo.png";
 const App = () => (
 
   <HashRouter>
@@ -248,6 +248,7 @@ const attractionWindow = () => (
      <div class="divContent">
      <div align="left">
      <h1 class="title" color="#D6BA8A">Smithsonians</h1>
+      <img class="smith" src={Smithsonian} />
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
                   <li>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
