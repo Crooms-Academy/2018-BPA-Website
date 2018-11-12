@@ -200,7 +200,8 @@ const attractionWindow = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
-     <div class="divContent" align="left">
+     <div class="divContent">
+     <div align="left">
      <h1 class="title" color="#D6BA8A">Smithsonians</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
@@ -515,8 +516,8 @@ const attractionWindow = () => (
                    <li><b>Hours: </b></li>
             </ul>
     </ul>
-    <br/><br/><br/>
-    <img class="Logo" align="center" src={Logo} />
+    <br/><br/><br/></div>
+    <img class="Logo" src={Logo} />
     </div>
     <br/><br/><br/></div>
 );
