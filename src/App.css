@@ -349,22 +349,6 @@ h3{
   margin-top:30px;
 }
 
-.smith{
-  margin-top:30px;
-  width: 15%;
-  height: 15%;
-}
-
-.mon{
-  width:100%;
-  margin-top:30px;
-}
-
-.gov{
-  width:100%;
-  margin-top:30px;
-}
-
 ul{
   list-style-position: inside;
   color:#000E44;
@@ -431,7 +415,4 @@ h3{
 .Convention {
   height: 60%;
   width: 60%;
-}
-.divCenter{
-  align: center;
 }
