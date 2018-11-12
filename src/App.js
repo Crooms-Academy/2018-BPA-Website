@@ -99,73 +99,75 @@ const foodWindow = () => (
            </div>
            <div style={{height: '300px'}} />
        </Parallax>
-  <h1 class="title">Places to Eat:</h1>
-  <br/>
-  <h2>Inside the Hotel</h2>
-  <p>The Cocoa Bean Express - Coffee</p>
-  <ul>
-  <li>Hours: 5:30 pm - 9:30 pm</li>
-  </ul>
-  <p>Cocoa Bean Coffee House - Coffee</p>
-  <ul>
-  <li>Hours: All Day</li>
-  </ul>
-  <p>Pienza Italian Market - Breakfast and Lunch</p>
-  <ul>
-  <li>Hours: 5:30 pm - 9:30 pm</li>
-  </ul>
-  <p>National Pastime Sports Bar & Grill - Lunch and Dinner</p>
-  <ul>
-  <li>Hours: 11 am - 12 am</li>
-  </ul>
-  <p>Old Hickory Steakhouse - Dinner</p>
-  <ul>
-  <li>Hours: 5:30 pm - 9:30 pm</li>
-  </ul>
-  <br/>
+  <div class="divContent>
+        <h1 class="title">Places to Eat:</h1>
+        <br/>
+        <h2>Inside the Hotel</h2>
+        <p>The Cocoa Bean Express - Coffee</p>
+        <ul>
+        <li>Hours: 5:30 pm - 9:30 pm</li>
+        </ul>
+        <p>Cocoa Bean Coffee House - Coffee</p>
+        <ul>
+        <li>Hours: All Day</li>
+        </ul>
+        <p>Pienza Italian Market - Breakfast and Lunch</p>
+        <ul>
+        <li>Hours: 5:30 pm - 9:30 pm</li>
+        </ul>
+        <p>National Pastime Sports Bar & Grill - Lunch and Dinner</p>
+        <ul>
+        <li>Hours: 11 am - 12 am</li>
+        </ul>
+        <p>Old Hickory Steakhouse - Dinner</p>
+        <ul>
+        <li>Hours: 5:30 pm - 9:30 pm</li>
+        </ul>
+        <br/>
 
-<img class="burger" src={Burger}/>
+      <img class="burger" src={Burger}/>
 
-<br/>
+      <br/>
 
-  <h2>Outside the Hotel</h2>
-  <p>Starbucks - Coffee</p>
-  <ul>
-  <li>167 Waterfront St, Oxon Hill, MD 20745</li>
-  <li>.2 mile - 4 min walk</li>
-  <li>Hours: 5:30 am- 10 pm</li>
-  </ul>
-  <p>Public House National Harbor - Breakfast, Lunch, and Dinner</p>
-  <ul>
-  <li>199 Fleet St, Oxon Hill, MD 20745</li>
-  <li>.1 mile - 2 min walk</li>
-  <li>Hours: 9 am - 2 am</li>
-  </ul>
-  <p>Grace’s Mandarin - Lunch and Dinner</p>
-  <ul>
-  <li>188 Waterfront St, Oxon Hill, MD 20745</li>
-  <li>.1 mile - 2 min walk</li>
-  <li>Hours: 11:30 am - 10 pm</li>
-  </ul>
-  <p>Brother Jimmy’s BBQ - Lunch and Dinner</p>
-  <ul>
-  <li>1177 Fleet St, Oxon Hill, MD 20745</li>
-  <li>.1 mile - 2 min walk</li>
-  <li>Hours: 11:30 am - 2 am</li>
-  </ul>
-  <p>Succotash - Lunch and Dinner</p>
-  <ul>
-  <li>186 Waterfront St, Oxon Hill, MD 20745</li>
-  <li>.1 mile - 2 min walk</li>
-  <li>Hours: 11:30 am - 10pm</li>
-  </ul>
-  <br/>
+        <h2>Outside the Hotel</h2>
+        <p>Starbucks - Coffee</p>
+        <ul>
+        <li>167 Waterfront St, Oxon Hill, MD 20745</li>
+        <li>.2 mile - 4 min walk</li>
+        <li>Hours: 5:30 am- 10 pm</li>
+        </ul>
+        <p>Public House National Harbor - Breakfast, Lunch, and Dinner</p>
+        <ul>
+        <li>199 Fleet St, Oxon Hill, MD 20745</li>
+        <li>.1 mile - 2 min walk</li>
+        <li>Hours: 9 am - 2 am</li>
+        </ul>
+        <p>Grace’s Mandarin - Lunch and Dinner</p>
+        <ul>
+        <li>188 Waterfront St, Oxon Hill, MD 20745</li>
+        <li>.1 mile - 2 min walk</li>
+        <li>Hours: 11:30 am - 10 pm</li>
+        </ul>
+        <p>Brother Jimmy’s BBQ - Lunch and Dinner</p>
+        <ul>
+        <li>1177 Fleet St, Oxon Hill, MD 20745</li>
+        <li>.1 mile - 2 min walk</li>
+        <li>Hours: 11:30 am - 2 am</li>
+        </ul>
+        <p>Succotash - Lunch and Dinner</p>
+        <ul>
+        <li>186 Waterfront St, Oxon Hill, MD 20745</li>
+        <li>.1 mile - 2 min walk</li>
+        <li>Hours: 11:30 am - 10pm</li>
+        </ul>
+        <br/>
 
-  <img class="burger" src={Salmon}/>
+        <img class="burger" src={Salmon}/>
 
-  <br/>
-  <br/>
-  <br/>
+        <br/>
+        <br/>
+        <br/>
+    </div>
   </div>
 
 );
