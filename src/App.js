@@ -423,7 +423,7 @@ const attractionWindow = () => (
                   <li><i>All bags will be checked by hand.</i></li>
              </ul>
      <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
-     <img src={Capital} />
+     <img class="Capital" src={Capital} />
      <h2 class="h2ul" color="#D6BA8A">Arlington National Cemetery</h2>
      <ul>
             <li><b><i>Women in Military Service for America Memorial</i></b></li>
