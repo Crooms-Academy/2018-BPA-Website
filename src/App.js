@@ -56,11 +56,6 @@ const homeWindow = () => (
     <h1 class="SubText">Take a ride on the Subway.</h1>
     <img class="Pizza" src={Pizza} />
     <h1 class="ZaText">Eat world-class food.</h1>
-    <br/>
-    <br/>
-    <br/><br/><br/><br/><br/><br/>
-    <img class="Logo" src={Logo} />
-    <br/><br/><br/>
   </div>
 );
 
