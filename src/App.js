@@ -583,6 +583,31 @@ const attractionWindow = () => (
                     </ul>
                   </ul>
             </ul>
+	<h2 class="attractionHeaders"><b><i>Supreme Court</i></b></h2>
+            <ul>
+                   <li><a href="https://www.supremecourt.gov/visiting/visiting.aspx" rel="nofollow" target="_blank">Supreme Court Tour Page</a></li>
+                   <li><b>Address: </b>1 First St NE, Washington, DC 20543</li>
+                   <li><b>Hours: </b>Monday – Friday: 9 a.m. – 4:30 p.m., Closed on Saturday and Sunday</li>
+                   <li><b>Prohibited Items: </b></li>
+                   <ul>
+						  <li>Be prepared to pass through security screening at your point of entry. To enter the building efficiently, please ask students to carry as little as possible on the day of their visit (backpacks, bags, etc.). All items are screened in x-ray machines and all visitors will be asked to pass through metal detectors.</li>
+                          <li><i>The Supreme Court is the highest court in the nation for all cases and controversies arising under the Constitution or laws of the United States; therefore, visitors are asked to follow a few general guidelines:</i></li>
+                          <ul>
+                              <li>Be prepared to pass through security screening at your point of entry. All items must be screened in x-ray machines and all visitors will be asked to pass through metal detectors.</li>
+                              <li>Please tour the building quietly, as working offices are adjacent to public hallways.</li>
+                              <li>No photography or audio/video recording is allowed inside the Courtroom.</li>
+                              <li>Smoking is prohibited inside the building.</li>
+                              <li>Consumption of food and beverages is permitted only in the Cafeteria and vending machine alcove.</li>
+                              <li>Touching of portraits, busts, or other artifacts on exhibit is strictly prohibited.</li>
+                              <li>Any visitors unable to maintain proper behavior will be asked to leave by the Supreme Court Police.</li>
+                         </ul>
+                  </ul>
+                  <li><b>Tours: </b></li>
+                  <ul>
+                    <li><i>The Supreme Court does not offer guided walking tours,</i> visitors are encouraged to tour public portions of the building on a self-guided basis and take advantage of a variety of educational programs, including Courtroom Lectures, a Visitor Film, and court-related Exhibitions. In addition to the Courtroom, portions of the first and ground floors are open to the public. Highlights include the John Marshall statue, portraits and busts of former Justices, and two self-supporting marble staircases. The Courtroom is located on the first floor.</li>
+                    <li>Court sessions, including handing down of opinions are also open to the public. Courtroom seating is on a first-come, first-served basis. Visitors should be aware that the business of the Court may from time to time affect public access to the building or alter programming offered.</li>
+                  </ul>
+            </ul>
     </ul>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
