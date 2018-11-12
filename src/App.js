@@ -77,7 +77,8 @@ const transportWindow = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
-  </div>
+  <div class="divContent">
+  </div></div>
 );
 
 const foodWindow = () => (
@@ -191,7 +192,7 @@ const attractionWindow = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
-     <div align="left">
+     <div class="divContent">
      <h1 class="title">Smithsonians</h1>
 
              <h2>Policies/Prohibited Items</h2>
@@ -508,7 +509,7 @@ const attractionWindow = () => (
                    <li><b>Hours: </b></li>
             </ul>
     </ul>
-  </div></div>
+  </div></div></div>
 );
 
 const dressWindow = () => (
@@ -530,6 +531,7 @@ const dressWindow = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
+    <div class="divContent">
     <h1 class="title">NLC Dress Code</h1>
     <p>In order to promote a professional atmosphere, BPA’s Board of Trustees has developed the following official dress code policy for the Business Professionals of America National Leadership Conference. Students, advisors and chaperones must follow the dress code. It is recommended that all guests follow established dress code policy.</p>
     <p>Members not dressed in required attire will not be allowed to participate in any session or any competitive event. Members not adhering to the Professional Dress Code will not be allowed on stage.</p>
@@ -578,7 +580,7 @@ const dressWindow = () => (
       <p><b>Swim suits</b> must be covered with appropriate attire while in any area except the swimming pool or designated sunbathing area.</p>
       <br/>
       <br/>
-  </div>
+  </div></div>
 );
 
 const mapsWindows = () => (
@@ -600,6 +602,7 @@ const mapsWindows = () => (
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
+    <div class="divContent">
     <br/>
     <br/>
     <h2>The Hotel:</h2>
@@ -608,7 +611,7 @@ const mapsWindows = () => (
     <br/>
     <br/>
     <hr/>
-  </div>
+  </div></div>
 );
 
 
