@@ -381,6 +381,9 @@ a{
   color:#000E44;
 }
 
+b{
+  font-style: italic;
+}
 ul {
   font-weight: bold;
 }
