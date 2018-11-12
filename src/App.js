@@ -99,7 +99,7 @@ const transportWindow = () => (
     <p>The Metro offers an easy and convenient way to navigate the capital</p>
     <p>National Harbor and the Gaylord National Hotel are connected to the Washington Metro system (Metropolitan Area Transit Authority, or WMATA), via a limited-stop bus route.</p>
     <p>For bus schedules, route maps, and current prices, please visit the <a href="http://www.wmata.com/bus/timetables/view.cfm?line=205&x=53&y=4" rel="nofollow" target="_blank">WMATA website</a></p>
-    <p>The closest Metro station is <i>Huntington Station,</i> about 5 miles from National Harbor in Alexandria</p>
+    <p>The closest Metro station is <i>Huntington Station,</i> located on the <i>Yellow Line</i> about 5 miles from National Harbor in Alexandria</p>
     <br/>
     <p><b>Hours</b></p>
     <p>Monday-Thursday	5 am-11:30 pm</p>
