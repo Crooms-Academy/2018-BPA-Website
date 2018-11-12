@@ -84,7 +84,7 @@ const transportWindow = () => (
     <h2><i>For transport to and from airports</i></h2>
     <h3><i>From Reagan National (DCA) to Gaylord National</i></h3>
     <p>6:00 AM - 8:00 PM | Departs every 20 minutes</p>
-    <p>$18 one way/ $33 per person, pre-paid round trip/ $85 for exclusive van service
+    <p>$18 one way/ $33 per person, pre-paid round trip/ $85 for exclusive van service</p>
     <p><i>Pricing does not include $2.00 airport entry fee</i></p><br/>
     <h3><i>From Dulles International Airport (IAD) to Gaylord National</i></h3>
     <p>$45 per passenger/$125 exclusive van</p>
