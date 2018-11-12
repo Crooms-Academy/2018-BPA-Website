@@ -612,7 +612,7 @@ const dressWindow = () => (
               <p>Spandex, lycra, or transparent clothing.</p>
               <p>Cut-offs or ragged clothing.</p>
               <p>Clothing with inappropriate words and pictures.</p>
-      <p><b>Swim suits</b> must be covered with appropriate attire while in any area except the swimming pool or designated sunbathing area.</p>
+      <p><b>Swim suitst</b> must be covered with appropriate attire while in any area except the swimming pool or designated sunbathing area.</p>
       <br/>
       <br/>
       <br/>
