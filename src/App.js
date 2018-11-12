@@ -20,9 +20,6 @@ import RedLoop from "./Red-Loop.jpg";
 import BlueLoop from "./Blue-Loop.jpg";
 import Metro from "./Metro.png";
 import Convention from "./Convention.png";
-import Smithsonian from "./Smithsonian-Logo.png";
-import NationalMall from "./National-Mall.png";
-import Capital from "./Capital.jpg";
 
 const App = () => (
 
@@ -137,7 +134,6 @@ const transportWindow = () => (
     <br/>
   </div>
 );
-
 const foodWindow = () => (
   <div className="App">
     <header className="App-header">
@@ -180,11 +176,8 @@ const foodWindow = () => (
         <p>Hours: 5:30 pm - 9:30 pm</p>
         
         <br/>
-
       <img class="burger" src={Burger}/>
-
       <br/>
-
         <h2>Outside the Hotel</h2>
         <h3>Starbucks - Coffee</h3>
         
@@ -217,18 +210,14 @@ const foodWindow = () => (
         <p>Hours: 11:30 am - 10pm</p>
         
         <br/>
-
         <img class="salmon" src={Salmon}/>
-
         <br/>
         <br/>
         <br/>
         <img class="Logo" src={Logo} />
     </div><br/>
   </div>
-
 );
-
 const attractionWindow = () => (
   <div className="App">
     <header className="App-header">
@@ -275,7 +264,6 @@ const attractionWindow = () => (
                         <li>Do not Take photographs for advertising or any other commercial purpose</li>
                         <li>Do not Solicit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</li>
                   </ul>
-
              <li><b><i>African American Museum</i></b></li>
              <ul>
                   <li><b>Address: </b>1400 Constitution Ave NW, Washington, DC</li>
@@ -434,7 +422,6 @@ const attractionWindow = () => (
                   <li><i>All bags will be checked by hand.</i></li>
              </ul>
      <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
-     <img class="mon" src={Capital} />
      <h2 class="h2ul" color="#D6BA8A">Arlington National Cemetery</h2>
      <ul>
             <li><b><i>Women in Military Service for America Memorial</i></b></li>
@@ -570,7 +557,6 @@ const attractionWindow = () => (
     </div>
     <br/></div>
 );
-
 const dressWindow = () => (
   <div className="App">
     <header className="App-header">
@@ -614,28 +600,19 @@ const dressWindow = () => (
               <p>BPA blazer with dress slacks, dress shirt, and tie.</p>
               <p>Dress shoes and dress socks are required with all of the above.</p>
               <p>This excludes all denim for any of the above.</p>
-
-
     <h2>Casual Dress Code</h2>
         <p><i>Required for the following events: Tours, Special Events and Exhibit Hall.</i></p>
         <h3>Women:</h3>
-
               <p>Sportswear (jeans), pants, and shirt, T-shirt, and shorts.</p>
               <p>Footwear required with all of the above.</p>
-
         <h3>Men:</h3>
-
               <p>Sportswear (jeans), pants and shirt, T-shirt, and shorts.</p>
               <p>Footwear required with all of the above. </p>
-
-
     <h2>The following are unacceptable during BPA activities:</h2>
-
               <p>Strapless, spaghetti straps, tube tops, halter tops, midriff tops.</p>
               <p>Spandex, lycra, or transparent clothing.</p>
               <p>Cut-offs or ragged clothing.</p>
               <p>Clothing with inappropriate words and pictures.</p>
-
       <p><b>Swim suits</b> must be covered with appropriate attire while in any area except the swimming pool or designated sunbathing area.</p>
       <br/>
       <br/>
@@ -645,7 +622,6 @@ const dressWindow = () => (
       <br/>
       </div>
 );
-
 const mapsWindows = () => (
   <div className="App">
     <header className="App-header">
@@ -684,14 +660,9 @@ const mapsWindows = () => (
       <img class="RedLoop" src={RedLoop} />
       <br/>
       <br/>
-    <h2>National Mall</h2>
-    <p><i>Use the following map to help you navigate the National Mall</i></p>
-    <img class="RedLoop" src={NationalMall} /} <br/><br/>
       <img class="Logo" src={Logo} />
       </div>
       <br/>
       </div>
 );
-
-
 export default App;
