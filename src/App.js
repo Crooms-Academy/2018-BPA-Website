@@ -674,10 +674,10 @@ const mapsWindows = () => (
       <img class="Metro" src={Metro} /><br/><br/>
       <h2>D.C. Hop-On Hop-Off Trolley Tour</h2>
       <p><i>Use this map to help you follow the Trolley Stops</i></p>
-      <h3>Blue Line</h3>
-      <img class="BlueLine" src={BlueLine} />
-      <h3>Red Line</h3>
-      <img class="RedLine" src={RedLine} />
+      <h3>Blue Loop</h3>
+      <img class="BlueLoop" src={BlueLoop} />
+      <h3>Red Loop</h3>
+      <img class="RedLoop" src={RedLoop} />
       <br/>
       <br/>
       <img class="Logo" src={Logo} />
