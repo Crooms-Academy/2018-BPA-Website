@@ -85,7 +85,7 @@ const transportWindow = () => (
     <br/>
     <img class="Logo" src={Logo} />
     </div>
-    <br/><br/><br/>
+    <br/>
   </div>
 );
 
@@ -518,7 +518,7 @@ const attractionWindow = () => (
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
     </div>
-    <br/><br/><br/></div>
+    <br/></div>
 );
 
 const dressWindow = () => (
@@ -592,7 +592,7 @@ const dressWindow = () => (
       <br/>
       <img class="Logo" src={Logo} />
       </div>
-      <br/><br/><br/>
+      <br/>
       </div>
 );
 
@@ -625,7 +625,7 @@ const mapsWindows = () => (
       <br/>
       <img class="Logo" src={Logo} />
       </div>
-      <br/><br/><br/>
+      <br/>
       </div>
 );
 
