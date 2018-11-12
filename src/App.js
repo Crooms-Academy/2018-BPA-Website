@@ -99,7 +99,7 @@ const foodWindow = () => (
            </div>
            <div style={{height: '300px'}} />
        </Parallax>
-  <div class="divContent>
+  <div class="divContent">
         <h1 class="title">Places to Eat:</h1>
         <br/>
         <h2>Inside the Hotel</h2>
