@@ -16,6 +16,8 @@ import Dress from "./dress.jpg";
 import Logo from "./BPA-logo.png";
 import Burger from "./burger.jpg";
 import Salmon from "./salmon.jpeg";
+import RedLoop from "./Red-Loop.jpg";
+import BlueLoop from "./Blue-Loop.jpg";
 
 
 const App = () => (
@@ -91,6 +93,24 @@ const transportWindow = () => (
     <p><i>Pricing does not include $1.00 airport entry fee</i></p><br/>
     <h3><i>From Baltimore/Washington Airport (BWI) to Gaylord National</i></h3>
     <p>$45 per passenger/$125 exclusive</p>
+    <br/>
+    <h1>Shuttle Service to MGM National Harbor, Tanger Outlets and more</h1>
+    <p>Registered overnight guests at Gaylord National can enjoy FREE transportation on the Harbor Circulator Bus as part of the resort fee. This shuttle runs 7 days a week from 11am to 10:13pm on Sunday-Thursday and till 12:53am on Friday and Saturdays.</p>
+    <br/>
+    <h1>D.C. Hop-On Hop-Off Trolley Tour from Gaylord National</h1>
+    <p>With 25 stops it's easy to tour the capital region with the Old Town Trolley Hop-On Hop-Off Tour. Discover D.C.’s top attractions at your own pace, including the White House, Lincoln Memorial and the only tour to take you into the Arlington National Cemetery.</p>
+    <br/>
+    <p><b>Shuttle Time:</b><p>
+    <p>Gaylord National Resort (pick up in the bus loop) 7 days a week</p>
+    <p>Departs: 8:35am</p>
+    <p>Returns: 5:30pm</p>
+    <p><i>These are the only times in which the shuttle will depart and return to the hotel. Once in the capital you may get on and off the trolley as you wish. The trolleys operate on a 30 minute cycle.</i></p>
+    <br/>
+    <p>Tickets can be purchased at Gaylord National’s Concierge Desk or by calling 202-969-1437. You may also puchase tickets <a href="https://www.trolleytours.com/washington-dc#home-sectioni" rel="nofollow" target="_blank">online</a></p>
+    <h2>Blue Loop</h2>
+    <img src={BlueLoop} />
+    <h2>Red Loop</h2>
+    <img src={RedLoop} />
     <br/>
     <br/>
     <br/>
