@@ -35,7 +35,7 @@ const App = () => (
 
 
 const homeWindow = () => (
-  <div className="HomeApp">
+  <div className="App">
     <header className="App-header">
     <h1>BPA Nationals</h1>
     </header>
@@ -50,6 +50,7 @@ const homeWindow = () => (
     <br/>
     </div>
     <br/> 
+    <div class="divContent>
     <h1 class="h1Content">While at BPA Nationals: </h1>
     <img class="WhiteHouse" src={WhiteHouse} />
     <h1 class="HouseText">Explore American Monuments.</h1>
@@ -57,7 +58,7 @@ const homeWindow = () => (
     <h1 class="SubText">Take a ride on the Subway.</h1>
     <img class="Pizza" src={Pizza} />
     <h1 class="ZaText">Eat world-class food.</h1>
-  </div>
+  </div></div>
 );
 
 const transportWindow = () => (
