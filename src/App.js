@@ -176,7 +176,6 @@ const foodWindow = () => (
         <br/>
         <img class="Logo" src={Logo} />
     </div>
-    <br/><br/><br/>
   </div>
 
 );
