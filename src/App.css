@@ -360,3 +360,10 @@ a{
   color:white;
   font-weight: bold;
 }
+
+.divContent {
+  padding: 50px;
+  margin: 25px;
+  background-color: #D6BA8A;
+  color:#000E44;
+}
