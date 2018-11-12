@@ -49,13 +49,20 @@ const homeWindow = () => (
     <br/>
     </div>
     <br/>
-    <h1>While at BPA Nationals: </h1>
-    <img class="WhiteHouse" src={WhiteHouse} />
-    <h1 class="HouseText">Explore American Monuments.</h1>
-    <img class="Subway" src={Subway} />
-    <h1 class="SubText">Take a ride on the Subway.</h1>
-    <img class="Pizza" src={Pizza} />
-    <h1 class="ZaText">Eat world-class food.</h1>
+    <div class="divContent">
+        <h1 style="color:#D6BA8A">While at BPA Nationals: </h1>
+        <img class="WhiteHouse" src={WhiteHouse} />
+        <h1 class="HouseText" style="color:#D6BA8A">Explore American Monuments.</h1>
+        <img class="Subway" src={Subway} />
+        <h1 class="SubText" style="color:#D6BA8A">Take a ride on the Subway.</h1>
+        <img class="Pizza" src={Pizza} />
+        <h1 class="ZaText" style="color:#D6BA8A">Eat world-class food.</h1>
+        <br/>
+        <br/>
+        <br/>
+        <img class="Logo" src={Logo} />
+    </div>
+    <br/><br/><br/>
   </div>
 );
 
