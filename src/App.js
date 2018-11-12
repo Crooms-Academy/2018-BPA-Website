@@ -503,12 +503,13 @@ const attractionWindow = () => (
       </ul>
     <h1 class="title" color="#D6BA8A">Government Buildings</h1>
     <p align="center"><i>Please be respectful of the appropriate etiquette at all times when on government grounds. Remember when at NLC you are not only representing your state and the national organization, but also yourself.</i></p>
-        <h2><b><i>United States Capital Building</i></b></h2>
+    <ul>
+            <li><b><i>United States Capital Building</i></b></li>
             <ul>
                    <li><a href="https://www.visitthecapitol.gov/" rel="nofollow" target="_blank">Capital Building Website</a></li>
                    <li><b>Address: </b>First St NE, Washington, DC 20515</li>
                    <li><b>Hours: </b>Monday - Saturday: 8:30a.m. - 4:30p.m.</li>
-                   <li><h3><b>Prohibited Items: </b></h3></li>
+                   <li><b>Prohibited Items: </b></li>
                    <ul>
                           <li><i>Before entering the Capitol Visitor Center, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></li>
                           <li><i>The following items are strictly prohibited in the Capitol, including the Capitol Visitor Center:</i></li>
@@ -537,7 +538,7 @@ const attractionWindow = () => (
                                 <li><i>Each Gallery operates a checkstand where visitors may store these items securely while they are visiting that Gallery.</i></li>
                          </ul>
                   </ul>
-                  <li><h3><b>Tours: </b></h3></li>
+                  <li><b>Tours: </b></li>
                   <ul>
                         <li><i>Advance reservations are recommended, but not required.</i></li>
                         <li>Small groups (of 15 and fewer people) can <a href="https://tours.visitthecapitol.gov/cvc#.WqlNZijwaHs" rel="nofollow" target="_blank">click here</a> to create an account and reserve a tour date and time. <i>Reservations are available 90 days in advance.</i></li>
@@ -545,49 +546,12 @@ const attractionWindow = () => (
                         <li>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some holiday periods, the availability of same-day tour passes may be limited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></li>
                   </ul>
             </ul>
-            
-            <h2><b><i>White House</i></b></h2>
-            <ul>
-                   <a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" rel="nofollow" target="_blank">White House Tour Page</a>
-                   <li><b>Address: </b>1600 Pennsylvania Ave NW, Washington, DC 20500</li>
-                   <li><b>Hours: </b>Tuesday-Thursday: 7:30-11:30a.m., Friday-Saturday: 7:30a.m.-1:30p.m.</li>
-                   <li><h3><i><Prohibited Items:</i></h3></li>
-                   <ul>
-                        <li><i>Prohibited items include, but are not limited to, the following:</i></li>
-                        <ul>
-                              <li>Video Recorders</li>
-                              <li>Handbags, book bags, backpacks or purses</li>
-                              <li>Food or beverages, tobacco products, personal grooming items (i.e. makeup, lotion, etc.)</li>
-                              <li>Strollers</li>
-                              <li>Any pointed objects</li>
-                              <li>Aerosol containers</li>
-                              <li>Guns, ammunition, fireworks, electric stun guns, mace, martial arts weapons/devices, or knives of any size</li>
-                        </ul>
-                        <li>Smartphones and compact cameras with a lens no longer than 3 inches (stills only) are permitted on the public tour route as long as their use does not interfere with other guests’ enjoyment of the tour.</li>
-                        <li>Video cameras including any action camcorders, cameras with detachable lenses, tablets, tripods, monopods and camera sticks are not permitted.</li>
-                        <li>Flash photography or live stream as well as talking or texting on cellular phones is not permitted while on the tour.</li>
-                        <li>The U.S. Secret Service reserves the right to prohibit any other personal items. Umbrellas, wallets, car keys, and cell phones (including those with cameras) are permitted. However, guests will not be allowed to use cell phones inside the White House. Phones used inside the White House may be confiscated by US Secret Service.</li>
-                        <li>Please note that no storage facilities are available on or around the complex. Individuals who arrive with prohibited items will not be permitted to enter the White House.</li>
-                   </ul>
-                <li><h3><i>Tours:</i></h3></li>
-                <ul>
-                    <li><i>Public tour requests MUST be submitted through one’s Member of Congress.</i></li>
-                    <li>Tours are scheduled on a first come, first served basis.</li>
-                    <li>Requests can be submitted up to three months in advance and no less than 21 days in advance. You are encouraged to submit your request as early as possible as a limited number of spaces are available.</li>
-                    <li><i>All White House tours are free of charge.</i></li>
-                    <li>All guests 18 years of age or older will be required to present a valid, government-issued photo identification</li>
-                    <ul>
-                          <li>Valid government-issued United States identification card (e.g. drivers license, military ID, etc.)</li>
-                          <li>Valid United States or other official government-issued passports</li>
-                    </ul>
-                </ul>
-            </ul>
-            
-            <b><i>Supreme Court</i></b>
+            <li><b><i></i></b></li>
             <ul>
                    <li><b>Address: </b></li>
                    <li><b>Hours: </b></li>
             </ul>
+    </ul>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
     </div>
@@ -608,7 +572,7 @@ const dressWindow = () => (
   <br/>
     <Parallax blur={10} bgImage={require('./suit.jpg')} bgImageAlt="map" strength={500}>
            <div class="box">
-            <h1 class="paralaxtext">Dress Code</h1>
+            <h1 class="paralaxtext">Dress Codet</h1>
            </div>
            <div style={{ height: '300px' }} />
        </Parallax>
