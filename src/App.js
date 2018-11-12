@@ -49,7 +49,7 @@ const homeWindow = () => (
     <br/>
     </div>
     <br/>
-    <h1>While at BPA Nationals: </h1>
+    <h1 class="h1Content">While at BPA Nationals: </h1>
     <img class="WhiteHouse" src={WhiteHouse} />
     <h1 class="HouseText">Explore American Monuments.</h1>
     <img class="Subway" src={Subway} />
@@ -109,24 +109,23 @@ const foodWindow = () => (
        </Parallax>
   <div class="divContent">
         <h1 class="title">Places to Eat:</h1>
-        <br/>
         <h2>Inside the Hotel</h2>
-        <p>The Cocoa Bean Express - Coffee</p>
+        <h3>The Cocoa Bean Express - Coffee</h3>
         <p>Hours: 5:30 pm - 9:30 pm</p>
         
-        <p>Cocoa Bean Coffee House - Coffee</p>
+        <h3>Cocoa Bean Coffee House - Coffee</h3>
         
         <p>Hours: All Day</p>
         
-        <p>Pienza Italian Market - Breakfast and Lunch</p>
+        <h3>Pienza Italian Market - Breakfast and Lunch</h3>
         
         <p>Hours: 5:30 pm - 9:30 pm</p>
         
-        <p>National Pastime Sports Bar & Grill - Lunch and Dinner</p>
+        <h3>National Pastime Sports Bar & Grill - Lunch and Dinner</h3>
         
         <p>Hours: 11 am - 12 am</p>
         
-        <p>Old Hickory Steakhouse - Dinner</p>
+        <h3>Old Hickory Steakhouse - Dinner</h3>
         
         <p>Hours: 5:30 pm - 9:30 pm</p>
         
@@ -137,31 +136,31 @@ const foodWindow = () => (
       <br/>
 
         <h2>Outside the Hotel</h2>
-        <p>Starbucks - Coffee</p>
+        <h3>Starbucks - Coffee</h3>
         
         <p>167 Waterfront St, Oxon Hill, MD 20745</p>
         <p>.2 mile - 4 min walk</p>
         <p>Hours: 5:30 am- 10 pm</p>
         
-        <p>Public House National Harbor - Breakfast, Lunch, and Dinner</p>
+        <h3>Public House National Harbor - Breakfast, Lunch, and Dinner</h3>
         
         <p>199 Fleet St, Oxon Hill, MD 20745</p>
         <p>.1 mile - 2 min walk</p>
         <p>Hours: 9 am - 2 am</p>
         
-        <p>Grace’s Mandarin - Lunch and Dinner</p>
+        <h3>Grace’s Mandarin - Lunch and Dinner</h3>
         
         <p>188 Waterfront St, Oxon Hill, MD 20745</p>
         <p>.1 mile - 2 min walk</p>
         <p>Hours: 11:30 am - 10 pm</p>
         
-        <p>Brother Jimmy’s BBQ - Lunch and Dinner</p>
+        <h3>Brother Jimmy’s BBQ - Lunch and Dinner</h3>
         
         <p>1177 Fleet St, Oxon Hill, MD 20745</p>
         <p>.1 mile - 2 min walk</p>
         <p>Hours: 11:30 am - 2 am</p>
         
-        <p>Succotash - Lunch and Dinner</p>
+        <h3>Succotash - Lunch and Dinner</h3>
         
         <p>186 Waterfront St, Oxon Hill, MD 20745</p>
         <p>.1 mile - 2 min walk</p>
@@ -174,8 +173,8 @@ const foodWindow = () => (
         <br/>
         <br/>
         <br/>
+        <img class="Logo" src={Logo} />
     </div>
-<img class="Logo" src={Logo} />
     <br/><br/><br/>
   </div>
 
@@ -616,14 +615,11 @@ const mapsWindows = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
     <div class="divContent">
-    <br/>
-    <br/>
     <h2>The Hotel:</h2>
     <p> This years National Convention will be held at the Gaylord Palms Resort in Washington DC. Use the following interactive map to explore the surrounding area.</p>
     <iframe class="hotel" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.226301767285!2d-77.01896208465307!3d38.78144617958869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0734d793d5d%3A0x7fccb753cbe0c4f7!2sGaylord+National+Resort+%26+Convention+Center%2C+Fort+Washington%2C+MD+20745!5e0!3m2!1sen!2sus!4v1541349162518" allowfullscreen></iframe>
     <br/>
-    <br/>
-    <hr/><br/>
+    <br/><br/>
       <br/>
       <br/>
       <img class="Logo" src={Logo} />
