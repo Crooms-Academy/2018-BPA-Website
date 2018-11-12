@@ -22,6 +22,7 @@ import Metro from "./Metro.png";
 import Convention from "./Convention.png";
 import Smithsonian from "./Smithsonian-Logo.png";
 import NationalMall from "./National-Mall.png";
+import Capital from "./Capital.jpg";
 
 const App = () => (
 
@@ -684,7 +685,7 @@ const mapsWindows = () => (
       <br/>
     <h2>National Mall</h2>
     <p><i>Use the following map to help you navigate the National Mall</i></p>
-    <img src={NationalMall} /} <br/><br/>
+    <img class="RedLoop" src={NationalMall} /} <br/><br/>
       <img class="Logo" src={Logo} />
       </div>
       <br/>
