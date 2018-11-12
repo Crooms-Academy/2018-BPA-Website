@@ -677,7 +677,7 @@ const mapsWindows = () => (
       <h3>Blue Line</h3>
       <img class="BlueLine" src={BlueLine} />
       <h3>Red Line</h3>
-      <img class="RedLine" src={RedLine />
+      <img class="RedLine" src={RedLine} />
       <br/>
       <br/>
       <img class="Logo" src={Logo} />
