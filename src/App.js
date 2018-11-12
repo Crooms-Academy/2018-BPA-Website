@@ -239,7 +239,7 @@ const attractionWindow = () => (
        </Parallax>
      <div class="divContent">
      <div align="left">
-     <h1 class="title" color="#D6BA8A">Smithsonians</h1>
+     <h1 class="title" color="#D6BA8A">Smithsonianst</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
                   <li>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
