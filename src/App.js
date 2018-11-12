@@ -18,7 +18,8 @@ import Burger from "./burger.jpg";
 import Salmon from "./salmon.jpeg";
 import RedLoop from "./Red-Loop.jpg";
 import BlueLoop from "./Blue-Loop.jpg";
-
+import Metro from "./Metro.png";
+import Convention from "./Convention.png";
 
 const App = () => (
 
@@ -106,6 +107,8 @@ const transportWindow = () => (
     <p>Saturday	7 am-1 am</p>
     <p>Sunday	8 am-11 pm</p><br/>
     <p>Prices vary drastically based off of your current station and destination station so we ask you to refer to the <a href="https://www.wmata.com/rider-guide/stations/index.cfm" rel="nofollow" target="_blank">Metro Fares Website</a> for more information.</p>
+    <h2 class="h1Content">Metro Map</h2>
+    <img class="Metro" src={Metro} />
     <h1>Shuttle Service to MGM National Harbor, Tanger Outlets and more</h1>
     <p>Registered overnight guests at Gaylord National can enjoy FREE transportation on the Harbor Circulator Bus as part of the resort fee. This shuttle runs 7 days a week from 11am to 10:13pm on Sunday-Thursday and till 12:53am on Friday and Saturdays.</p>
     <br/><br/>
@@ -660,10 +663,21 @@ const mapsWindows = () => (
        </Parallax>
     <div class="divContent">
     <h2>The Hotel:</h2>
-    <p>The 2020 National Conference will be held at the Gaylord Palms Resort in Washington DC. Use the following interactive map to explore the surrounding area.</p>
+    <p>The 2020 National Conference will be held at the Gaylord Palms Resort in Washington DC. Use the following map to navigate the hotel conference center.</p>
+    <img class="Convention" src={Convention} /><br/><br/>
+    <h2>Interactive Map</h2>
+    <p><i>Use the following interactive map to explore the surrounding area.</i></p>
     <iframe class="hotel" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.226301767285!2d-77.01896208465307!3d38.78144617958869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0734d793d5d%3A0x7fccb753cbe0c4f7!2sGaylord+National+Resort+%26+Convention+Center%2C+Fort+Washington%2C+MD+20745!5e0!3m2!1sen!2sus!4v1541349162518" allowfullscreen></iframe>
-    <br/>
     <br/><br/>
+      <h2>Metro Map</h2>
+      <p><i>Use this map to help you navigate the Metro System</i></p>
+      <img class="Metro" src={Metro} /><br/><br/>
+      <h2>D.C. Hop-On Hop-Off Trolley Tour</h2>
+      <p><i>Use this map to help you follow the Trolley Stops</i></p>
+      <h3>Blue Line</h3>
+      <img class="BlueLine" src={BlueLine} />
+      <h3>Red Line</h3>
+      <img class="RedLine" src={RedLine />
       <br/>
       <br/>
       <img class="Logo" src={Logo} />
