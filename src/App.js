@@ -113,7 +113,7 @@ const transportWindow = () => (
     <p>Registered overnight guests at Gaylord National can enjoy FREE transportation on the Harbor Circulator Bus as part of the resort fee. This shuttle runs 7 days a week from 11am to 10:13pm on Sunday-Thursday and till 12:53am on Friday and Saturdays.</p>
     <br/><br/>
     <h1>D.C. Hop-On Hop-Off Trolley Tour from Gaylord National</h1>
-    <p>With 20 stops it's easy to tour the capital region with the Old Town Trolley Hop-On Hop-Off Tour. Discover D.C.’s top attractions at your own pace, including the White House, Lincoln Memorial and the only tour to take you into the Arlington National Cemetery.</p>
+    <p>With 25 stops it's easy to tour the capital region with the Old Town Trolley Hop-On Hop-Off Tour. Discover D.C.’s top attractions at your own pace, including the White House, Lincoln Memorial and the only tour to take you into the Arlington National Cemetery.</p>
     <br/>
     <p><b>Shuttle Time:</b></p>
     <p>Gaylord National Resort (pick up in the bus loop) 7 days a week</p>
