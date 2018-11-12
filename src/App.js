@@ -379,8 +379,8 @@ const attractionWindow = () => (
              </ul>
              <li><b><i>United States Holocaust Memorial Museum</i></b></li>
              <ul>
-                  <li>100 Raoul Wallenberg Pl SW, Washington, DC 20024</li>
-                  <li>10 a.m. - 5:20 p.m.</li>
+                  <li><b>Address: </b>100 Raoul Wallenberg Pl SW, Washington, DC 20024</li>
+                  <li><b>Hours: </b>10 a.m. - 5:20 p.m.</li>
                   <li><i>All bags will be checked by hand.</i></li>
              </ul>
      <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
