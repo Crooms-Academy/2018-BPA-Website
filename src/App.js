@@ -239,7 +239,7 @@ const attractionWindow = () => (
        </Parallax>
      <div class="divContent">
      <div align="left">
-     <h1 class="title" color="#D6BA8A">Smithsonianst</h1>
+     <h1 class="title" color="#D6BA8A">Smithsonians</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
              <ul>
                   <li>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
@@ -546,10 +546,42 @@ const attractionWindow = () => (
                         <li>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some holiday periods, the availability of same-day tour passes may be limited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></li>
                   </ul>
             </ul>
-            <li><b><i></i></b></li>
+            <li><b><i>White House</i></b></li>
             <ul>
-                   <li><b>Address: </b></li>
-                   <li><b>Hours: </b></li>
+                   <li><a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" rel="nofollow" target="_blank">White House Tour Page</a></li>
+                   <li><b>Address: </b>1600 Pennsylvania Ave NW, Washington, DC 20500</li>
+                   <li><b>Hours: </b>Tuesday-Thursday: 7:30-11:30a.m., Friday-Saturday: 7:30a.m.-1:30p.m.</li>
+                   <li><b>Prohibited Items: </b></li>
+                   <ul>
+                          <li><i>Before entering the White House, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></li>
+                          <li><i>Prohibited items include, but are not limited to, the following:</i></li>
+                          <ul>
+                              <li>Video Recorders</li>
+                              <li>Handbags, book bags, backpacks or purses</li>
+                              <li>Food or beverages, tobacco products, personal grooming items (i.e. makeup, lotion, etc.)</li>
+                              <li>Strollers</li>
+                              <li>Any pointed objects</li>
+                              <li>Aerosol containers</li>
+                              <li>Guns, ammunition, fireworks, electric stun guns, mace, martial arts weapons/devices, or knives of any size</li>
+                         </ul>
+                         <li>Smartphones and compact cameras with a lens no longer than 3 inches (stills only) are permitted on the public tour route as long as their use does not interfere with other guests’ enjoyment of the tour.</li>
+						 <li>Video cameras including any action camcorders, cameras with detachable lenses, tablets, tripods, monopods and camera sticks are not permitted.</li>
+						 <li>Flash photography or live stream as well as talking or texting on cellular phones is not permitted while on the tour.</li>
+						 <li>The U.S. Secret Service reserves the right to prohibit any other personal items. Umbrellas, wallets, car keys, and cell phones (including those with cameras) are permitted. However, guests will not be allowed to use cell phones inside the White House. Phones used inside the White House may be confiscated by US Secret Service.</li>
+						 <li>Please note that no storage facilities are available on or around the complex. Individuals who arrive with prohibited items will not be permitted to enter the White House.</li>
+                  </ul>
+                  <li><b>Tours: </b></li>
+                  <ul>
+                    <li><i>Public tour requests MUST be submitted through one’s Member of Congress.</i></li>
+                    <li>Tours are scheduled on a first come, first served basis.</li>
+                    <li>Requests can be submitted up to three months in advance and no less than 21 days in advance. You are encouraged to submit your request as early as possible as a limited number of spaces are available.</li>
+                    <li><i>All White House tours are free of charge.</i></li>
+                    <li>All guests 18 years of age or older will be required to present a valid, government-issued photo identification</li>
+                    <ul>
+                          <li>Valid government-issued United States identification card (e.g. drivers license, military ID, etc.)</li>
+                          <li>Valid United States or other official government-issued passports</li>
+                    </ul>
+                  </ul>
             </ul>
     </ul>
     <br/><br/><br/></div>
