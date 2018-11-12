@@ -516,7 +516,7 @@ const attractionWindow = () => (
             </ul>
     </ul>
     <br/><br/><br/>
-    <img class="Logo" src={Logo} />
+    <img class="Logo" align="center" src={Logo} />
     </div>
     <br/><br/><br/></div>
 );
