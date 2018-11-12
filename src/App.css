@@ -325,6 +325,8 @@ h2{
 
 .Logo{
   position:absolute;
+  max-height: 10%;
+  max-width: 10%;
 }
 
 .ZaText{
