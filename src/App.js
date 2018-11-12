@@ -169,7 +169,7 @@ const foodWindow = () => (
         
         <br/>
 
-        <img class="burger" src={Salmon}/>
+        <img class="salmon" src={Salmon}/>
 
         <br/>
         <br/>
