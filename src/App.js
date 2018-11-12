@@ -13,8 +13,6 @@ import WhiteHouse from "./whitehouse.JPG";
 import Subway from "./subway.jpg";
 import Pizza from "./pizza.jpeg";
 import Dress from "./dress.jpg";
-import Burger from "./burger.jpeg";
-import Salmon from "./salmon.jpeg";
 import Logo from "./BPA-logo.png";
 
 const App = () => (
@@ -131,7 +129,7 @@ const foodWindow = () => (
         
         <br/>
 
-      <img class="burger" src={Burger}/>
+      
 
       <br/>
 
@@ -168,7 +166,7 @@ const foodWindow = () => (
         
         <br/>
 
-        <img class="burger" src={Salmon}/>
+        
 
         <br/>
         <br/>
