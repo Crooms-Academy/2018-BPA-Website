@@ -424,3 +424,22 @@ h3{
   width:100%;
   margin-top:30px;
 }
+
+.smithsonian{
+  width: 80%;
+  background-color:black;
+  color: white;
+  padding-left:25px;
+  padding-right:25px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.popup{
+  height: 150px;
+  border-radius: 20px;
+  border-color: black;
+  border-width: 5px;
+}

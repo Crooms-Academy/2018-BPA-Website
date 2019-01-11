@@ -20,6 +20,7 @@ import RedLoop from "./Red-Loop.jpg";
 import BlueLoop from "./Blue-Loop.jpg";
 import Metro from "./Metro.png";
 import Convention from "./Convention.png";
+import Popup from "reactjs-popup";
 
 const App = () => (
 
@@ -44,7 +45,11 @@ const homeWindow = () => (
     </header>
     <div class="nav">
     <Link to="/home"><button class="home">🏠 Home</button></Link>
-    <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
+    <Popup className="popup" trigger={<Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>} position="bottom center" on="hover">
+    <button class="smithsonian">Smithsonians</button>
+    <button class="smithsonian">Memorials</button>
+    <button class="smithsonian">Government</button>
+  </Popup>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
@@ -69,7 +74,11 @@ const transportWindow = () => (
     <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
-    <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
+    <Popup className="popup" trigger={<Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>} position="bottom center" on="hover">
+    <button class="smithsonian">Smithsonians</button>
+    <button class="smithsonian">Memorials</button>
+    <button class="smithsonian">Government</button>
+  </Popup>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
@@ -140,7 +149,11 @@ const foodWindow = () => (
     <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
-    <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
+    <Popup className="popup" trigger={<Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>} position="bottom center" on="hover">
+    <button class="smithsonian">Smithsonians</button>
+    <button class="smithsonian">Memorials</button>
+    <button class="smithsonian">Government</button>
+  </Popup>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
@@ -224,7 +237,11 @@ const attractionWindow = () => (
     <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
-    <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
+    <Popup className="popup" trigger={<Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>} position="bottom center" on="hover">
+    <button class="smithsonian">Smithsonians</button>
+    <button class="smithsonian">Memorials</button>
+    <button class="smithsonian">Government</button>
+  </Popup>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
@@ -620,7 +637,11 @@ const dressWindow = () => (
     <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
-    <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
+    <Popup className="popup" trigger={<Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>} position="bottom center" on="hover">
+    <button class="smithsonian">Smithsonians</button>
+    <button class="smithsonian">Memorials</button>
+    <button class="smithsonian">Government</button>
+  </Popup>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
@@ -685,7 +706,11 @@ const mapsWindows = () => (
     <h1>2020 National Leadership Conference</h1>
     </header>
     <Link to="/home"><button class="home">🏠 Home</button></Link>
-    <Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>
+    <Popup className="popup" trigger={<Link to="/attractions"><button class="attractions">🏛️ Attractions</button></Link>} position="bottom center" on="hover">
+    <button class="smithsonian">Smithsonians</button>
+    <button class="smithsonian">Memorials</button>
+    <button class="smithsonian">Government</button>
+  </Popup>
     <Link to="/transportation"><button class="transport">🚌 Transportation</button></Link>
     <Link to="/maps"><button class="maps">🗺️ Maps</button></Link>
     <Link to="/food"><button class="food">🍕 Food</button></Link>
