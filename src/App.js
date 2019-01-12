@@ -63,14 +63,22 @@ const homeWindow = () => (
     </div>
     <br/> 
     <h1 class="h1Content">While at the 2020 BPA National Leadership Conference: </h1>
-    <a href="http://www.google.com" target="_blank">
-    <img class="WhiteHouse" src={WhiteHouse} />
-    </a>
-    <h1 class="HouseText">Explore American Monuments.</h1>
-    <img class="Subway" src={Subway} />
-    <h1 class="SubText">Ride on the Subway.</h1>
-    <img class="Pizza" src={Pizza} />
-    <h1 class="ZaText">Eat world-class food.</h1>
+    <div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2 className="homeTitle">Explore American Monuments</h2>
+      <div class="fakeimg"><img className="homeImage" src={WhiteHouse} /></div>
+    </div>
+    <div class="card">
+      <h2 className="homeTitle">Ride on the Subway</h2>
+      <div class="fakeimg"><img className="homeImage" src={Subway} /></div>
+    </div>
+    <div class="card">
+      <h2 className="homeTitle">Eat world-class Food</h2>
+      <div class="fakeimg"><img className="homeImage" src={Pizza} /></div>
+    </div>
+  </div>
+</div>
   </div>
 );
 
