@@ -21,6 +21,10 @@ import BlueLoop from "./Blue-Loop.jpg";
 import Metro from "./Metro.png";
 import Convention from "./Convention.png";
 import Popup from "reactjs-popup";
+import {
+  PopupboxManager,
+  PopupboxContainer
+} from 'react-popupbox';
 
 const App = () => (
 
@@ -59,7 +63,9 @@ const homeWindow = () => (
     </div>
     <br/> 
     <h1 class="h1Content">While at the 2020 BPA National Leadership Conference: </h1>
+    <a href="http://www.google.com" target="_blank">
     <img class="WhiteHouse" src={WhiteHouse} />
+    </a>
     <h1 class="HouseText">Explore American Monuments.</h1>
     <img class="Subway" src={Subway} />
     <h1 class="SubText">Ride on the Subway.</h1>
@@ -117,7 +123,9 @@ const transportWindow = () => (
     <p>Sunday	8 am-11 pm</p><br/>
     <p>Prices vary drastically based off of your current station and destination station so we ask you to refer to the <a href="https://www.wmata.com/rider-guide/stations/index.cfm" rel="nofollow" target="_blank">Metro Fares Website</a> for more information.</p>
     <h2 class="h1Content">Metro Map</h2>
-    <img class="Metro" src={Metro} />
+    <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={Metro} />} position="center center" on="click">
+     <img class="popupMetro" src={Metro} />
+    </Popup>
     <h1>Shuttle Service to MGM National Harbor, Tanger Outlets and more</h1>
     <p>Registered overnight guests at Gaylord National can enjoy FREE transportation on the Harbor Circulator Bus as part of the resort fee. This shuttle runs 7 days a week from 11am to 10:13pm on Sunday-Thursday and till 12:53am on Friday and Saturdays.</p>
     <br/><br/>
@@ -132,9 +140,13 @@ const transportWindow = () => (
     <br/>
     <p>Tickets can be purchased at Gaylord National’s Concierge Desk or by calling 202-969-1437. You may also puchase tickets <a href="https://www.trolleytours.com/washington-dc#home-sectioni" rel="nofollow" target="_blank">online</a></p>
     <h2 class="h1Content">Blue Loop</h2>
-    <img class="BlueLoop" src={BlueLoop} />
+    <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={BlueLoop} />} position="center center" on="click">
+    <img class="popupMetro" src={BlueLoop} />
+    </Popup>
     <h2 class="h1Content">Red Loop</h2>
-    <img class="RedLoop" src={RedLoop} />
+    <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={RedLoop} />} position="center center" on="click">
+    <img class="popupMetro" src={RedLoop} />
+    </Popup>
     <br/>
     <br/>
     <br/>
@@ -726,20 +738,29 @@ const mapsWindows = () => (
     <div class="divContent">
     <h2>The Hotel:</h2>
     <p>The 2020 National Conference will be held at the Gaylord Palms Resort in Washington DC. Use the following map to navigate the hotel conference center.</p>
-    <img class="Convention" src={Convention} /><br/><br/>
+    <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={Convention} />} position="center center" on="click">
+    <img class="popupMetro" src={Convention} />
+    </Popup>
+    <br/><br/>
     <h2>Interactive Map</h2>
     <p><i>Use the following interactive map to explore the surrounding area.</i></p>
     <iframe class="hotel" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3110.226301767285!2d-77.01896208465307!3d38.78144617958869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0734d793d5d%3A0x7fccb753cbe0c4f7!2sGaylord+National+Resort+%26+Convention+Center%2C+Fort+Washington%2C+MD+20745!5e0!3m2!1sen!2sus!4v1541349162518" allowfullscreen></iframe>
     <br/><br/>
       <h2>Metro Map</h2>
       <p><i>Use this map to help you navigate the Metro System</i></p>
-      <img class="Metro" src={Metro} /><br/><br/>
+      <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={Metro} />} position="center center" on="click">
+    <img class="popupMetro" src={Metro} />
+    </Popup>
       <h2>D.C. Hop-On Hop-Off Trolley Tour</h2>
       <p><i>Use this map to help you follow the Trolley Stops</i></p>
       <h3>Blue Loop</h3>
-      <img class="BlueLoop" src={BlueLoop} />
+      <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={BlueLoop} />} position="center center" on="click">
+    <img class="popupMetro" src={BlueLoop} />
+    </Popup>
       <h3>Red Loop</h3>
-      <img class="RedLoop" src={RedLoop} />
+      <Popup className="popupImage" modal={true} closeOnEscape={true} repositionOnResize={true} keepTooltipInside={false}  trigger={<img class="Metro" src={RedLoop} />} position="center center" on="click">
+    <img class="popupMetro" src={RedLoop} />
+    </Popup>
       <br/>
       <br/>
       <img class="Logo" src={Logo} />

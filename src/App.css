@@ -427,7 +427,7 @@ h3{
 
 .smithsonian{
   width: 80%;
-  background-color:black;
+  background-color:#000F44;
   color: white;
   padding-left:25px;
   padding-right:25px;
@@ -442,4 +442,9 @@ h3{
   border-radius: 20px;
   border-color: black;
   border-width: 5px;
+}
+
+.popupMetro{
+width: 170%;
+margin-left: -35%;
 }
