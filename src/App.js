@@ -137,7 +137,7 @@ const smithsonianWindow = () => (
                   <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>Bags are required to be screened via x-ray machine.</i></p>
-             <hr style="width:50%"/>
+             <hr/>
              <p><b><i>African Art Museum</i></b></p>
              
                   <p><b>Address: </b>950 Independence Avenue, SW Washington, DC</p>
