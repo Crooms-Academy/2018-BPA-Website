@@ -131,69 +131,70 @@ const smithsonianWindow = () => (
                         <p>Do not Bring dogs or other animals, other than service animals</p>
                         <p>Do not Take photographs for advertising or any other commercial purpose</p>
                         <p>Do not Sopcit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</p>
-             <p><b><i>African American Museum</i></b></p>
+             <h2 color="#D6BA8A"><b>Museums</b></h2>
+	    <p><b><i>African American Museum</i></b></p>
              	  <p><b>Address: </b>1400 Constitution Ave NW, Washington, DC</p>
                   <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>Bags are required to be screened via x-ray machine.</i></p>
-             
+             <hr>
              <p><b><i>African Art Museum</i></b></p>
              
                   <p><b>Address: </b>950 Independence Avenue, SW Washington, DC</p>
                   <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Air and Space Museum</i></b></p>
              
                   <p><b>Address: </b>Independence Avenue and 6th Street, SW Washington, DC</p>
                   <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>Bags are required to be screened via x-ray machine.</i></p>
-             
+             <hr>
              <p><b><i>Air and Space Museum Udvar-Hazy Center</i></b></p>
              
                   <p><b>Address: </b>14390 Air and Space Museum Parkway, Chantilly, VA</p>
                   <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>American Art Museum</i></b></p>
              
                   <p><b>Address: </b>8th and F Streets, NW Washington, DC</p>
                   <p><b>Hours: </b>11:30 a.m. - 7:00 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>American History Museum</i></b></p>
              
                   <p><b>Address: </b>14th Street and Constitution Avenue, NW Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>American Indian Museum</i></b></p>
              
                   <p><b>Address: </b>4th Street  and Independence Avenue, SW Washington, DC</p>
                   <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Anacostia Community Museum</i></b></p>
              
                   <p><b>Address: </b>1901 Fort Place SE Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:00 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Archives of American Art</i></b></p>
              
                   <p><b>Address: </b>8th and F Streets, NW Washington, DC</p>
                   <p><b>Hours: </b>11:30 a.m. - 7:00 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Freer Gallery of Art</i></b></p>
              
                   <p><b>Address: </b>Jefferson Drive and 12th Street, SW Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Hirshhorn</i></b></p>
              
                   <p><b>Address: </b>Independence Avenue at 7th Street, SW Washington, DC</p>
@@ -204,7 +205,7 @@ const smithsonianWindow = () => (
                         <p><b>Sculpture Garden: </b>7:30 a.m. - dusk</p>
                   
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>National Zoo</i></b></p>
              
                   <p><b>Address: </b>3001 Connecticut Ave., NW Washington, DC</p>
@@ -228,7 +229,7 @@ const smithsonianWindow = () => (
                         <p>Engage in ball games, or any athletic activity, except in places as may be officially designated for such purposes</p>
                         <p>Smoke or carry pghted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises</p>
                         <p>Damage, deface, pick, or remove any herb, shrub, bush, tree, or turf, or portion thereof</p>
-                  
+                 <hr> 
              
              <p><b><i>Natural History Museum</i></b></p>
              
@@ -236,55 +237,56 @@ const smithsonianWindow = () => (
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Portrait Gallery</i></b></p>
              
                   <p><b>Address: </b>8th and F Streets, NW Washington, DC</p>
                   <p><b>Hours: </b>11:30 a.m. - 7:00 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Postal Museum</i></b></p>
              
                   <p><b>Address: </b>2 Massachusetts Avenue, NE Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>Visitors are required to walk through a metal detector.</i></p>
                   <p><i>Bags are required to be screened via x-ray machine.</i></p>
-             
+             <hr>
              <p><b><i>Renwick Gallery</i></b></p>
              
                   <p><b>Address: </b>1661 Pennsylvania Avenue, NW Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
                   <p><b>*Note: </b>Strollers currently are not permitted in the Renwick galleries on Friday, Saturday and Sunday; hopdays; and at other times when the galleries are especially crowded. Stroller parking is available at the 17th Street accessible entrance. This temporary measure is to protect the artworks.</p>
-             
+             <hr>
              <p><b><i>S. Dillon Ripley Center</i></b></p>
              
                   <p><b>Address: </b>1100 Jefferson Drive, SW Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Sackler Gallery</i></b></p>
              
                   <p><b>Address: </b>1050 Independence Avenue, SW Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Smithsonian Castle</i></b></p>
              
                   <p><b>Address: </b>1000 Jefferson Drive, SW Washington, DC</p>
                   <p><b>Hours: </b>8:30 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-             
+             <hr>
              <p><b><i>Smithsonian Gardens</i></b></p>
              
                   <p><b>Address: </b>Smithsonian museum grounds Washington, DC</p>
                   <p><b>Hours: </b>Haupt Garden open daily dawn to dusk; all others open 24 hours</p>
-             
+             <hr>
              <p><b><i>United States Holocaust Memorial Museum</i></b></p>
              
                   <p><b>Address: </b>100 Raoul Wallenberg Pl SW, Washington, DC 20024</p>
                   <p><b>Hours: </b>10 a.m. - 5:20 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
+			  <hr>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
     </div>
