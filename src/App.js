@@ -113,7 +113,7 @@ const smithsonianWindow = () => (
      <h1 class="title" color="#D6BA8A">Smithsonians</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
                   <p>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</p>
-                  <p>Smoking is prohibited in all Smithsonian facilities.<p>
+                  <p>Smoking is prohibited in all Smithsonian facilities.</p>
                   <p>Strollers are permitted in all museums*; a limited number of strollers are available for rent at the Zoo.</p>
                   <p>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</p>
                   <p><i>Some museums require visitors and/or bags to go through metal detectors or x-ray screenings. Please refer to the specific museum bellow to determine their policies. Those who are unable to go through the metal detector will be hand-screened with an electronic wand by security personnel.</i></p>
