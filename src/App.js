@@ -109,189 +109,183 @@ const smithsonianWindow = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
      <div class="divContent">
-     <div align="left">
+     <div>
      <h1 class="title" color="#D6BA8A">Smithsonians</h1>
              <h2 color="#D6BA8A">Policies/Prohibited Items</h2>
-             <ul>
-                  <li>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</li>
-                  <li>Smoking is prohibited in all Smithsonian facilities.</li>
-                  <li>Strollers are permitted in all museums*; a limited number of strollers are available for rent at the Zoo.</li>
-                  <li>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</li>
-                  <li><i>Some museums require visitors and/or bags to go through metal detectors or x-ray screenings. Please refer to the specific museum bellow to determine their policies. Those who are unable to go through the metal detector will be hand-screened with an electronic wand by security personnel.</i></li>
-              </ul>
+                  <p>Still and video photography is permitted for noncommercial use in the museums and exhibitions, unless otherwise posted. The use of tripods, monopods, or selfie sticks in the museums and gardens is strictly prohibited.</p>
+                  <p>Smoking is prohibited in all Smithsonian facilities.</p>
+                  <p>Strollers are permitted in all museums*; a limited number of strollers are available for rent at the Zoo.</p>
+                  <p>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</p>
+                  <p><i>Some museums require visitors and/or bags to go through metal detectors or x-ray screenings. Please refer to the specific museum bellow to determine their policies. Those who are unable to go through the metal detector will be hand-screened with an electronic wand by security personnel.</i></p>
               <h2 color="#D6BA8A"><b>While on Smithsonian Property</b></h2>
-                  <ul>
-                        <li>Do not Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms applies to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are religious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</li>
-                        <li>Do not Display or carry placards, signs, or banners</li>
-                        <li>Do not Destroy, damage, or remove property</li>
-                        <li>Do not Climb upon any part of a building</li>
-                        <li>Do not Use loud, abusive, or otherwise improper language</li>
-                        <li>Do not Loiter, sleep, or participate in unwarranted assemblies</li>
-                        <li>Do not Create any hazard to persons or things</li>
-                        <li>Do not Perform obscene or indecent acts</li>
-                        <li>Do not Engage in disorderly conduct</li>
-                        <li>Do not Use, possess, or sell illegal drugs</li>
-                        <li>Do not Bring dogs or other animals, other than service animals</li>
-                        <li>Do not Take photographs for advertising or any other commercial purpose</li>
-                        <li>Do not Solicit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</li>
-                  </ul>
-             <li><b><i>African American Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>1400 Constitution Ave NW, Washington, DC</li>
-                  <li><b>Hours: </b>10 a.m. - 5:30 p.m.</li>
-                  <li><i>Visitors are required to walk through a metal detector.</i></li>
-                  <li><i>Bags are required to be screened via x-ray machine.</i></li>
-             </ul>
-             <li><b><i>African Art Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>950 Independence Avenue, SW Washington, DC</li>
-                  <li><b>Hours: </b>10 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Air and Space Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>Independence Avenue and 6th Street, SW Washington, DC</li>
-                  <li><b>Hours: </b>10 a.m. - 5:30 p.m.</li>
-                  <li><i>Visitors are required to walk through a metal detector.</i></li>
-                  <li><i>Bags are required to be screened via x-ray machine.</i></li>
-             </ul>
-             <li><b><i>Air and Space Museum Udvar-Hazy Center</i></b></li>
-             <ul>
-                  <li><b>Address: </b>14390 Air and Space Museum Parkway, Chantilly, VA</li>
-                  <li><b>Hours: </b>10 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>American Art Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>8th and F Streets, NW Washington, DC</li>
-                  <li><b>Hours: </b>11:30 a.m. - 7:00 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>American History Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>14th Street and Constitution Avenue, NW Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>Visitors are required to walk through a metal detector.</i></li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>American Indian Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>4th Street  and Independence Avenue, SW Washington, DC</li>
-                  <li><b>Hours: </b>10 a.m. - 5:30 p.m.</li>
-                  <li><i>Visitors are required to walk through a metal detector.</i></li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Anacostia Community Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>1901 Fort Place SE Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:00 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Archives of American Art</i></b></li>
-             <ul>
-                  <li><b>Address: </b>8th and F Streets, NW Washington, DC</li>
-                  <li><b>Hours: </b>11:30 a.m. - 7:00 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Freer Gallery of Art</i></b></li>
-             <ul>
-                  <li><b>Address: </b>Jefferson Drive and 12th Street, SW Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Hirshhorn</i></b></li>
-             <ul>
-                  <li><b>Address: </b>Independence Avenue at 7th Street, SW Washington, DC</li>
-                  <li><b>Hours:</b></li>
-                  <ul>
-                        <li><b>Museum: </b>10 a.m. - 5:30 p.m.</li>
-                        <li><b>Plaza: </b>7:30 a.m. - 5:30 p.m.</li>
-                        <li><b>Sculpture Garden: </b>7:30 a.m. - dusk</li>
-                  </ul>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>National Zoo</i></b></li>
-             <ul>
-                  <li><b>Address: </b>3001 Connecticut Ave., NW Washington, DC</li>
-                  <li><b>Hours:</b></li>
-                  <ul>
-                        <li>9 a.m. - 6 p.m. daily</li>
-                        <li>Grounds 8 a.m. - 7 p.m.</li>
-                        <li>(Weather permitting)</li>
-                  </ul>
-                  <li><i>All bags will be checked by hand.</i></li>
-                  <li><b>In addition to the above, while on Zoo premises, NO VISITOR SHALL:</b>
-                  <ul>
-                        <li>Kill, injure, or disturb any exhibit or research animal by any means except to secure personal safety</li>
-                        <li>Pet, attempt to pet, handle, move, or remove exhibit or research animals</li>
-                        <li>Feed exhibit or research animals, except in strict accordance with authorized signs</li>
-                        <li>Catch, attempt to catch, trap, remove, or kill any free roaming animals inhabiting the premises</li>
-                        <li>Go over, under, between, or otherwise cross any guardrail, fence, moat, wall, or any other safety barrier</li>
-                        <li>Seat, stand, or hold children over any safety barrier</li>
-                        <li>Throw or toss rocks, or any other missiles into, from, or while on premises</li>
-                        <li>Bring strollers, baby carriages, or other conveyances, except wheel chairs, into exhibit buildings and public restrooms</li>
-                        <li>Engage in ball games, or any athletic activity, except in places as may be officially designated for such purposes</li>
-                        <li>Smoke or carry lighted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises</li>
-                        <li>Damage, deface, pick, or remove any herb, shrub, bush, tree, or turf, or portion thereof</li>
-                  </ul>
-                  </li>
-             </ul>
-             <li><b><i>Natural History Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>10th Street and Constitution Avenue, NW Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>Visitors are required to walk through a metal detector.</i></li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Portrait Gallery</i></b></li>
-             <ul>
-                  <li><b>Address: </b>8th and F Streets, NW Washington, DC</li>
-                  <li><b>Hours: </b>11:30 a.m. - 7:00 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Postal Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>2 Massachusetts Avenue, NE Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>Visitors are required to walk through a metal detector.</i></li>
-                  <li><i>Bags are required to be screened via x-ray machine.</i></li>
-             </ul>
-             <li><b><i>Renwick Gallery</i></b></li>
-             <ul>
-                  <li><b>Address: </b>1661 Pennsylvania Avenue, NW Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-                  <li><b>*Note: </b>Strollers currently are not permitted in the Renwick galleries on Friday, Saturday and Sunday; holidays; and at other times when the galleries are especially crowded. Stroller parking is available at the 17th Street accessible entrance. This temporary measure is to protect the artworks.</li>
-             </ul>
-             <li><b><i>S. Dillon Ripley Center</i></b></li>
-             <ul>
-                  <li><b>Address: </b>1100 Jefferson Drive, SW Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Sackler Gallery</i></b></li>
-             <ul>
-                  <li><b>Address: </b>1050 Independence Avenue, SW Washington, DC</li>
-                  <li><b>Hours: </b>10:00 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Smithsonian Castle</i></b></li>
-             <ul>
-                  <li><b>Address: </b>1000 Jefferson Drive, SW Washington, DC</li>
-                  <li><b>Hours: </b>8:30 a.m. - 5:30 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
-             <li><b><i>Smithsonian Gardens</i></b></li>
-             <ul>
-                  <li><b>Address: </b>Smithsonian museum grounds Washington, DC</li>
-                  <li><b>Hours: </b>Haupt Garden open daily dawn to dusk; all others open 24 hours</li>
-             </ul>
-             <li><b><i>United States Holocaust Memorial Museum</i></b></li>
-             <ul>
-                  <li><b>Address: </b>100 Raoul Wallenberg Pl SW, Washington, DC 20024</li>
-                  <li><b>Hours: </b>10 a.m. - 5:20 p.m.</li>
-                  <li><i>All bags will be checked by hand.</i></li>
-             </ul>
+                        <p>Do not Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms apppes to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are repgious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</p>
+                        <p>Do not Display or carry placards, signs, or banners</p>
+                        <p>Do not Destroy, damage, or remove property</p>
+                        <p>Do not Cpmb upon any part of a building</p>
+                        <p>Do not Use loud, abusive, or otherwise improper language</p>
+                        <p>Do not Loiter, sleep, or participate in unwarranted assembpes</p>
+                        <p>Do not Create any hazard to persons or things</p>
+                        <p>Do not Perform obscene or indecent acts</p>
+                        <p>Do not Engage in disorderly conduct</p>
+                        <p>Do not Use, possess, or sell illegal drugs</p>
+                        <p>Do not Bring dogs or other animals, other than service animals</p>
+                        <p>Do not Take photographs for advertising or any other commercial purpose</p>
+                        <p>Do not Sopcit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</p>
+             <h2 color="#D6BA8A"><b>Museums</b></h2>
+	    <p><b><i>African American Museum</i></b></p>
+             	  <p><b>Address: </b>1400 Constitution Ave NW, Washington, DC</p>
+                  <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
+                  <p><i>Visitors are required to walk through a metal detector.</i></p>
+                  <p><i>Bags are required to be screened via x-ray machine.</i></p>
+             <hr/>
+             <p><b><i>African Art Museum</i></b></p>
+             
+                  <p><b>Address: </b>950 Independence Avenue, SW Washington, DC</p>
+                  <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Air and Space Museum</i></b></p>
+             
+                  <p><b>Address: </b>Independence Avenue and 6th Street, SW Washington, DC</p>
+                  <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
+                  <p><i>Visitors are required to walk through a metal detector.</i></p>
+                  <p><i>Bags are required to be screened via x-ray machine.</i></p>
+             <hr/>
+             <p><b><i>Air and Space Museum Udvar-Hazy Center</i></b></p>
+             
+                  <p><b>Address: </b>14390 Air and Space Museum Parkway, Chantilly, VA</p>
+                  <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>American Art Museum</i></b></p>
+             
+                  <p><b>Address: </b>8th and F Streets, NW Washington, DC</p>
+                  <p><b>Hours: </b>11:30 a.m. - 7:00 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>American History Museum</i></b></p>
+             
+                  <p><b>Address: </b>14th Street and Constitution Avenue, NW Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>Visitors are required to walk through a metal detector.</i></p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>American Indian Museum</i></b></p>
+             
+                  <p><b>Address: </b>4th Street  and Independence Avenue, SW Washington, DC</p>
+                  <p><b>Hours: </b>10 a.m. - 5:30 p.m.</p>
+                  <p><i>Visitors are required to walk through a metal detector.</i></p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Anacostia Community Museum</i></b></p>
+             
+                  <p><b>Address: </b>1901 Fort Place SE Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:00 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Archives of American Art</i></b></p>
+             
+                  <p><b>Address: </b>8th and F Streets, NW Washington, DC</p>
+                  <p><b>Hours: </b>11:30 a.m. - 7:00 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Freer Gallery of Art</i></b></p>
+             
+                  <p><b>Address: </b>Jefferson Drive and 12th Street, SW Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Hirshhorn</i></b></p>
+             
+                  <p><b>Address: </b>Independence Avenue at 7th Street, SW Washington, DC</p>
+                  <p><b>Hours:</b></p>
+                  
+                        <p><b>Museum: </b>10 a.m. - 5:30 p.m.</p>
+                        <p><b>Plaza: </b>7:30 a.m. - 5:30 p.m.</p>
+                        <p><b>Sculpture Garden: </b>7:30 a.m. - dusk</p>
+                  
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>National Zoo</i></b></p>
+             
+                  <p><b>Address: </b>3001 Connecticut Ave., NW Washington, DC</p>
+                  <p><b>Hours:</b></p>
+                  
+                        <p>9 a.m. - 6 p.m. daily</p>
+                        <p>Grounds 8 a.m. - 7 p.m.</p>
+                        <p>(Weather permitting)</p>
+                  
+                  <p><i>All bags will be checked by hand.</i></p>
+                  <p><b>In addition to the above, while on Zoo premises, NO VISITOR SHALL:</b></p>
+                  
+                        <p>Kill, injure, or disturb any exhibit or research animal by any means except to secure personal safety</p>
+                        <p>Pet, attempt to pet, handle, move, or remove exhibit or research animals</p>
+                        <p>Feed exhibit or research animals, except in strict accordance with authorized signs</p>
+                        <p>Catch, attempt to catch, trap, remove, or kill any free roaming animals inhabiting the premises</p>
+                        <p>Go over, under, between, or otherwise cross any guardrail, fence, moat, wall, or any other safety barrier</p>
+                        <p>Seat, stand, or hold children over any safety barrier</p>
+                        <p>Throw or toss rocks, or any other missiles into, from, or while on premises</p>
+                        <p>Bring strollers, baby carriages, or other conveyances, except wheel chairs, into exhibit buildings and pubpc restrooms</p>
+                        <p>Engage in ball games, or any athletic activity, except in places as may be officially designated for such purposes</p>
+                        <p>Smoke or carry pghted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises</p>
+                        <p>Damage, deface, pick, or remove any herb, shrub, bush, tree, or turf, or portion thereof</p>
+                 <hr/> 
+             
+             <p><b><i>Natural History Museum</i></b></p>
+             
+                  <p><b>Address: </b>10th Street and Constitution Avenue, NW Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>Visitors are required to walk through a metal detector.</i></p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Portrait Gallery</i></b></p>
+             
+                  <p><b>Address: </b>8th and F Streets, NW Washington, DC</p>
+                  <p><b>Hours: </b>11:30 a.m. - 7:00 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Postal Museum</i></b></p>
+             
+                  <p><b>Address: </b>2 Massachusetts Avenue, NE Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>Visitors are required to walk through a metal detector.</i></p>
+                  <p><i>Bags are required to be screened via x-ray machine.</i></p>
+             <hr/>
+             <p><b><i>Renwick Gallery</i></b></p>
+             
+                  <p><b>Address: </b>1661 Pennsylvania Avenue, NW Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+                  <p><b>*Note: </b>Strollers currently are not permitted in the Renwick galleries on Friday, Saturday and Sunday; hopdays; and at other times when the galleries are especially crowded. Stroller parking is available at the 17th Street accessible entrance. This temporary measure is to protect the artworks.</p>
+             <hr/>
+             <p><b><i>S. Dillon Ripley Center</i></b></p>
+             
+                  <p><b>Address: </b>1100 Jefferson Drive, SW Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Sackler Gallery</i></b></p>
+             
+                  <p><b>Address: </b>1050 Independence Avenue, SW Washington, DC</p>
+                  <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Smithsonian Castle</i></b></p>
+             
+                  <p><b>Address: </b>1000 Jefferson Drive, SW Washington, DC</p>
+                  <p><b>Hours: </b>8:30 a.m. - 5:30 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
+             <hr/>
+             <p><b><i>Smithsonian Gardens</i></b></p>
+             
+                  <p><b>Address: </b>Smithsonian museum grounds Washington, DC</p>
+                  <p><b>Hours: </b>Haupt Garden open daily dawn to dusk; all others open 24 hours</p>
+             <hr/>
+             <p><b><i>United States Holocaust Memorial Museum</i></b></p>
+             
+                  <p><b>Address: </b>100 Raoul Wallenberg Pl SW, Washington, DC 20024</p>
+                  <p><b>Hours: </b>10 a.m. - 5:20 p.m.</p>
+                  <p><i>All bags will be checked by hand.</i></p>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
     </div>
@@ -322,87 +316,78 @@ const memorialsWindow = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
      <div class="divContent">
-     <div align="left">
+     <div>
      <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
      <h2 class="h2ul" color="#D6BA8A">Arlington National Cemetery</h2>
-     <ul>
-            <li><b><i>Women in Military Service for America Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>Memorial Ave & Schley Dr, Arlington, VA 22202</li>
-                   <li><b>Hours: </b>8am – 5pm</li>
-            </ul>
-            <li><b><i>Arlington House (Robert E Lee Memorial)</i></b></li>
-            <ul>
-                   <li><b>Address: </b>321 Sherman Dr, Fort Myer, VA 22211</li>
-                   <li><b>Hours: </b>CLOSED FOR REHABILITATION</li>
-            </ul>
-            <li><b><i>Tomb of the Unknowns</i></b></li>
-            <ul>
-                   <li><b>Address: </b>1 Wilson Ave, Fort Myer, VA 22211</li>
-                   <li><b>Hours: </b>8a.m. - 5p.m.</li>
-            </ul>
-            <li><b><i>U.S. Marine Corps War Memorial (Iwo Jima Memorial)</i></b></li>
-            <ul>
-                   <li><b>Address: </b>Iwo Jima Memorial Access Rd, Arlington, United States</li>
-                   <li><b>Hours: </b>6 a.m. - 12 a.m.</li>
-            </ul>
-      </ul>
+     <p><b><i>Women in Miptary Service for America Memorial</i></b></p>
+            
+                   <p><b>Address: </b>Memorial Ave & Schley Dr, Arpngton, VA 22202</p>
+                   <p><b>Hours: </b>8am – 5pm</p>
+            <hr/>
+            <p><b><i>Arpngton House (Robert E Lee Memorial)</i></b></p>
+            
+                   <p><b>Address: </b>321 Sherman Dr, Fort Myer, VA 22211</p>
+                   <p><b>Hours: </b>CLOSED FOR REHABIpTATION</p>
+            <hr/>
+            <p><b><i>Tomb of the Unknowns</i></b></p>
+            
+                   <p><b>Address: </b>1 Wilson Ave, Fort Myer, VA 22211</p>
+                   <p><b>Hours: </b>8a.m. - 5p.m.</p>
+            <hr/>
+            <p><b><i>U.S. Marine Corps War Memorial (Iwo Jima Memorial)</i></b></p>
+            
+                   <p><b>Address: </b>Iwo Jima Memorial Access Rd, Arpngton, United States</p>
+                   <p><b>Hours: </b>6 a.m. - 12 a.m.</p>
       <h2 class="h2ul" color="#D6BA8A">Tidal Basin</h2>
-      <ul>
-            <li><b><i>Thomas Jefferson Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>701 E Basin Dr SW, Washington, DC 20242</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>Franklin Delano Roosevelt Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>1850 West Basin Dr SW, Washington, DC 20242</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>Martin Luther King, Jr. Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>1850 West Basin Dr SW, Washington, DC 20242</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-      </ul>
+      <p><b><i>Thomas Jefferson Memorial</i></b></p>
+            
+                   <p><b>Address: </b>701 E Basin Dr SW, Washington, DC 20242</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>Frankpn Delano Roosevelt Memorial</i></b></p>
+            
+                   <p><b>Address: </b>1850 West Basin Dr SW, Washington, DC 20242</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>Martin Luther King, Jr. Memorial</i></b></p>
+            
+                   <p><b>Address: </b>1850 West Basin Dr SW, Washington, DC 20242</p>
+                   <p><b>Hours: </b>Open 24/7</p>
       <h2 class="h2ul" color="#D6BA8A">National Mall</h2>
-      <ul>
-            <li><b><i>Lincoln Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>2 Lincoln Memorial Cir NW, Washington, DC 20037</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>Korean War Veterans Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>1964 Independence Ave SW, Washington, DC 20024</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>Vietnam Veterans Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>5 Henry Bacon Dr SW, Washington, DC 20007</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>Constitutional Gardens</i></b></li>
-            <ul>
-                   <li><b>Address: </b>Constitution Ave NW, Washington, DC 20024</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>World War II Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>1750 Independence Ave SW, Washington, DC 20024</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            <li><b><i>Washington Monument</i></b></li>
-            <ul>
-                   <li><b>Address: </b>2 15th St NW, Washington, DC 20024</li>
-                   <li><b>Hours: </b>9a.m. - 10p.m.</li>
-            </ul>
-            <li><b><i>The American Veterans Disabled for Life Memorial</i></b></li>
-            <ul>
-                   <li><b>Address: </b>150 Washington Ave SW, Washington, DC 20024</li>
-                   <li><b>Hours: </b>Open 24/7</li>
-            </ul>
-            </ul>
+      <p><b><i>Lincoln Memorial</i></b></p>
+            
+                   <p><b>Address: </b>2 pncoln Memorial Cir NW, Washington, DC 20037</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>Korean War Veterans Memorial</i></b></p>
+            
+                   <p><b>Address: </b>1964 Independence Ave SW, Washington, DC 20024</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>Vietnam Veterans Memorial</i></b></p>
+            
+                   <p><b>Address: </b>5 Henry Bacon Dr SW, Washington, DC 20007</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>Constitutional Gardens</i></b></p>
+        
+                   <p><b>Address: </b>Constitution Ave NW, Washington, DC 20024</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>World War II Memorial</i></b></p>
+            
+                   <p><b>Address: </b>1750 Independence Ave SW, Washington, DC 20024</p>
+                   <p><b>Hours: </b>Open 24/7</p>
+            <hr/>
+            <p><b><i>Washington Monument</i></b></p>
+            
+                   <p><b>Address: </b>2 15th St NW, Washington, DC 20024</p>
+                   <p><b>Hours: </b>9a.m. - 10p.m.</p>
+            <hr/>
+            <p><b><i>The American Veterans Disabled for pfe Memorial</i></b></p>
+            
+                   <p><b>Address: </b>150 Washington Ave SW, Washington, DC 20024</p>
+                   <p><b>Hours: </b>Open 24/7</p>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
     </div>
