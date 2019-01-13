@@ -434,19 +434,19 @@ h3{
   padding-top:10px;
   padding-bottom:10px;
   border-radius: 20px;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .popup{
-  height: 150px;
+  height: 200px;
   border-radius: 20px;
   border-color: black;
   border-width: 5px;
 }
 
 .popupMetro{
-width: 170%;
-margin-left: -35%;
+width: 90%;
+margin-left: -0%;
 }
 
 * {
