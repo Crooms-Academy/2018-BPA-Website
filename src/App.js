@@ -316,7 +316,7 @@ const memorialsWindow = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
      <div class="divContent">
-     <div align="left">
+     <div>
      <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
      <h2 class="h2ul" color="#D6BA8A">Arlington National Cemetery</h2>
      <p><b><i>Women in Miptary Service for America Memorial</i></b></p>
