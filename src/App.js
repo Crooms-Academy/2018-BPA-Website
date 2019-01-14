@@ -421,112 +421,106 @@ const governmentWindow = () => (
      <div align="left">
      <h1 class="title" color="#D6BA8A">Government Buildings</h1>
     <p align="center"><i>Please be respectful of the appropriate etiquette at all times when on government grounds. Remember when at NLC you are not only representing your state and the national organization, but also yourself.</i></p>
-    <ul>
-            <h2 class="attractionHeaders"><b><i>United States Capital Building</i></b></h2>
-            <ul>
-                   <li><a href="https://www.visitthecapitol.gov/" rel="nofollow" target="_blank">Capital Building Website</a></li>
-                   <li><b>Address: </b>First St NE, Washington, DC 20515</li>
-                   <li><b>Hours: </b>Monday - Saturday: 8:30a.m. - 4:30p.m.</li>
-                   <li><b>Prohibited Items: </b></li>
-                   <ul>
-                          <li><i>Before entering the Capitol Visitor Center, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></li>
-                          <li><i>The following items are strictly prohibited in the Capitol, including the Capitol Visitor Center:</i></li>
-                          <ul>
-                                <li>Liquid, including water</li>
-                                <li>Food or beverages of any kind, including fruit and unopened packaged food</li>
-                                <li>Aerosol containers</li>
-                                <li>Non-aerosol spray (Prescriptions for medical needs are permitted.)</li>
-                                <li>Any pointed object, e.g. knitting needles and letter openers (Pens and pencils are permitted.)</li>
-                                <li>Any bag larger than 18" wide x 14" high x 8.5" deep</li>
-                                <li>Electric stun guns, martial arts weapons or devices</li>
-                                <li>Guns, replica guns, ammunition, and fireworks</li>
-                                <li>Knives of any size</li>
-                                <li>Mace and pepper spray</li>
-                                <li>Razors and box cutters</li>
-                         </ul>
-                         <li><i>The following items are not allowed in the Senate and House Galleries:</i></li>
-                         <ul>
-                                <li>Battery-operated electronic devices (medical devices are permitted)</li>
-                                <li>Cameras</li>
-                                <li>Cans and bottles</li>
-                                <li>Creams, lotions or perfume</li>
-                                <li>Packages, briefcases, backpacks or suitcases</li>
-                                <li>Strollers</li>
-                                <li>Video recorders or any type of recording device</li>
-                                <li><i>Each Gallery operates a checkstand where visitors may store these items securely while they are visiting that Gallery.</i></li>
-                         </ul>
-                  </ul>
-                  <li><b>Tours: </b></li>
-                  <ul>
-                        <li><i>Advance reservations are recommended, but not required.</i></li>
-                        <li>Small groups (of 15 and fewer people) can <a href="https://tours.visitthecapitol.gov/cvc#.WqlNZijwaHs" rel="nofollow" target="_blank">click here</a> to create an account and reserve a tour date and time. <i>Reservations are available 90 days in advance.</i></li>
-                        <li>Tour services and organizations with groups of more than 15 participants should <a href="https://tours.visitthecapitol.gov/CVC/#.WqlNzyjwaHs" rel="nofollow" target="_blank">click here</a> to access the group section of the online reservation system. <i>Reservations for groups become available 120 days in advance.</i></li>
-                        <li>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some holiday periods, the availability of same-day tour passes may be limited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></li>
-                  </ul>
-            </ul>
+    <h2 class="attractionHeaders"><b><i>United States Capital Building</i></b></h2>
+            
+                   <p><a href="https://www.visitthecapitol.gov/" rel="nofollow" target="_blank">Capital Building Website</a></p>
+                   <p><b>Address: </b>First St NE, Washington, DC 20515</p>
+                   <p><b>Hours: </b>Monday - Saturday: 8:30a.m. - 4:30p.m.</p>
+                   <p><b>Prohibited Items: </b></p>
+                   
+                          <p><i>Before entering the Capitol Visitor Center, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></p>
+                          <p><i>The following items are strictly prohibited in the Capitol, including the Capitol Visitor Center:</i></p>
+                          
+                                <p>pquid, including water</p>
+                                <p>Food or beverages of any kind, including fruit and unopened packaged food</p>
+                                <p>Aerosol containers</p>
+                                <p>Non-aerosol spray (Prescriptions for medical needs are permitted.)</p>
+                                <p>Any pointed object, e.g. knitting needles and letter openers (Pens and pencils are permitted.)</p>
+                                <p>Any bag larger than 18" wide x 14" high x 8.5" deep</p>
+                                <p>Electric stun guns, martial arts weapons or devices</p>
+                                <p>Guns, reppca guns, ammunition, and fireworks</p>
+                                <p>Knives of any size</p>
+                                <p>Mace and pepper spray</p>
+                                <p>Razors and box cutters</p>
+                         
+                         <p><i>The following items are not allowed in the Senate and House Galleries:</i></p>
+                         
+                                <p>Battery-operated electronic devices (medical devices are permitted)</p>
+                                <p>Cameras</p>
+                                <p>Cans and bottles</p>
+                                <p>Creams, lotions or perfume</p>
+                                <p>Packages, briefcases, backpacks or suitcases</p>
+                                <p>Strollers</p>
+                                <p>Video recorders or any type of recording device</p>
+                                <p><i>Each Gallery operates a checkstand where visitors may store these items securely while they are visiting that Gallery.</i></p>
+                         
+                  
+                  <p><b>Tours: </b></p>
+                  
+                        <p><i>Advance reservations are recommended, but not required.</i></p>
+                        <p>Small groups (of 15 and fewer people) can <a href="https://tours.visitthecapitol.gov/cvc#.WqlNZijwaHs" rel="nofollow" target="_blank">cpck here</a> to create an account and reserve a tour date and time. <i>Reservations are available 90 days in advance.</i></p>
+                        <p>Tour services and organizations with groups of more than 15 participants should <a href="https://tours.visitthecapitol.gov/CVC/#.WqlNzyjwaHs" rel="nofollow" target="_blank">cpck here</a> to access the group section of the onpne reservation system. <i>Reservations for groups become available 120 days in advance.</i></p>
+                        <p>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some hopday periods, the availabipty of same-day tour passes may be pmited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></p>
+                  <hr/>
             <h2 class="attractionHeaders"><b><i>White House</i></b></h2>
-            <ul>
-                   <li><a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" rel="nofollow" target="_blank">White House Tour Page</a></li>
-                   <li><b>Address: </b>1600 Pennsylvania Ave NW, Washington, DC 20500</li>
-                   <li><b>Hours: </b>Tuesday-Thursday: 7:30-11:30a.m., Friday-Saturday: 7:30a.m.-1:30p.m.</li>
-                   <li><b>Prohibited Items: </b></li>
-                   <ul>
-                          <li><i>Before entering the White House, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></li>
-                          <li><i>Prohibited items include, but are not limited to, the following:</i></li>
-                          <ul>
-                              <li>Video Recorders</li>
-                              <li>Handbags, book bags, backpacks or purses</li>
-                              <li>Food or beverages, tobacco products, personal grooming items (i.e. makeup, lotion, etc.)</li>
-                              <li>Strollers</li>
-                              <li>Any pointed objects</li>
-                              <li>Aerosol containers</li>
-                              <li>Guns, ammunition, fireworks, electric stun guns, mace, martial arts weapons/devices, or knives of any size</li>
-                         </ul>
-                         <li>Smartphones and compact cameras with a lens no longer than 3 inches (stills only) are permitted on the public tour route as long as their use does not interfere with other guests’ enjoyment of the tour.</li>
-						 <li>Video cameras including any action camcorders, cameras with detachable lenses, tablets, tripods, monopods and camera sticks are not permitted.</li>
-						 <li>Flash photography or live stream as well as talking or texting on cellular phones is not permitted while on the tour.</li>
-						 <li>The U.S. Secret Service reserves the right to prohibit any other personal items. Umbrellas, wallets, car keys, and cell phones (including those with cameras) are permitted. However, guests will not be allowed to use cell phones inside the White House. Phones used inside the White House may be confiscated by US Secret Service.</li>
-						 <li>Please note that no storage facilities are available on or around the complex. Individuals who arrive with prohibited items will not be permitted to enter the White House.</li>
-                  </ul>
-                  <li><b>Tours: </b></li>
-                  <ul>
-                    <li><i>Public tour requests MUST be submitted through one’s Member of Congress.</i></li>
-                    <li>Tours are scheduled on a first come, first served basis.</li>
-                    <li>Requests can be submitted up to three months in advance and no less than 21 days in advance. You are encouraged to submit your request as early as possible as a limited number of spaces are available.</li>
-                    <li><i>All White House tours are free of charge.</i></li>
-                    <li>All guests 18 years of age or older will be required to present a valid, government-issued photo identification</li>
-                    <ul>
-                          <li>Valid government-issued United States identification card (e.g. drivers license, military ID, etc.)</li>
-                          <li>Valid United States or other official government-issued passports</li>
-                    </ul>
-                  </ul>
-            </ul>
+            
+                   <p><a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" rel="nofollow" target="_blank">White House Tour Page</a></p>
+                   <p><b>Address: </b>1600 Pennsylvania Ave NW, Washington, DC 20500</p>
+                   <p><b>Hours: </b>Tuesday-Thursday: 7:30-11:30a.m., Friday-Saturday: 7:30a.m.-1:30p.m.</p>
+                   <p><b>Prohibited Items: </b></p>
+                   
+                          <p><i>Before entering the White House, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></p>
+                          <p><i>Prohibited items include, but are not pmited to, the following:</i></p>
+                          
+                              <p>Video Recorders</p>
+                              <p>Handbags, book bags, backpacks or purses</p>
+                              <p>Food or beverages, tobacco products, personal grooming items (i.e. makeup, lotion, etc.)</p>
+                              <p>Strollers</p>
+                              <p>Any pointed objects</p>
+                              <p>Aerosol containers</p>
+                              <p>Guns, ammunition, fireworks, electric stun guns, mace, martial arts weapons/devices, or knives of any size</p>
+                         
+                         <p>Smartphones and compact cameras with a lens no longer than 3 inches (stills only) are permitted on the pubpc tour route as long as their use does not interfere with other guests’ enjoyment of the tour.</p>
+						 <p>Video cameras including any action camcorders, cameras with detachable lenses, tablets, tripods, monopods and camera sticks are not permitted.</p>
+						 <p>Flash photography or pve stream as well as talking or texting on cellular phones is not permitted while on the tour.</p>
+						 <p>The U.S. Secret Service reserves the right to prohibit any other personal items. Umbrellas, wallets, car keys, and cell phones (including those with cameras) are permitted. However, guests will not be allowed to use cell phones inside the White House. Phones used inside the White House may be confiscated by US Secret Service.</p>
+						 <p>Please note that no storage facipties are available on or around the complex. Individuals who arrive with prohibited items will not be permitted to enter the White House.</p>
+                  
+                  <p><b>Tours: </b></p>
+                  
+                    <p><i>Pubpc tour requests MUST be submitted through one’s Member of Congress.</i></p>
+                    <p>Tours are scheduled on a first come, first served basis.</p>
+                    <p>Requests can be submitted up to three months in advance and no less than 21 days in advance. You are encouraged to submit your request as early as possible as a pmited number of spaces are available.</p>
+                    <p><i>All White House tours are free of charge.</i></p>
+                    <p>All guests 18 years of age or older will be required to present a vapd, government-issued photo identification</p>
+                    
+                          <p>Vapd government-issued United States identification card (e.g. drivers pcense, miptary ID, etc.)</p>
+                          <p>Vapd United States or other official government-issued passports</p>
+		<hr/>
 	<h2 class="attractionHeaders"><b><i>Supreme Court</i></b></h2>
-            <ul>
-                   <li><a href="https://www.supremecourt.gov/visiting/visiting.aspx" rel="nofollow" target="_blank">Supreme Court Tour Page</a></li>
-                   <li><b>Address: </b>1 First St NE, Washington, DC 20543</li>
-                   <li><b>Hours: </b>Monday – Friday: 9 a.m. – 4:30 p.m., Closed on Saturday and Sunday</li>
-                   <li><b>Prohibited Items: </b></li>
-                   <ul>
-						  <li>Be prepared to pass through security screening at your point of entry. To enter the building efficiently, please ask students to carry as little as possible on the day of their visit (backpacks, bags, etc.). All items are screened in x-ray machines and all visitors will be asked to pass through metal detectors.</li>
-                          <li><i>The Supreme Court is the highest court in the nation for all cases and controversies arising under the Constitution or laws of the United States; therefore, visitors are asked to follow a few general guidelines:</i></li>
-                          <ul>
-                              <li>Be prepared to pass through security screening at your point of entry. All items must be screened in x-ray machines and all visitors will be asked to pass through metal detectors.</li>
-                              <li>Please tour the building quietly, as working offices are adjacent to public hallways.</li>
-                              <li>No photography or audio/video recording is allowed inside the Courtroom.</li>
-                              <li>Smoking is prohibited inside the building.</li>
-                              <li>Consumption of food and beverages is permitted only in the Cafeteria and vending machine alcove.</li>
-                              <li>Touching of portraits, busts, or other artifacts on exhibit is strictly prohibited.</li>
-                              <li>Any visitors unable to maintain proper behavior will be asked to leave by the Supreme Court Police.</li>
-                         </ul>
-                  </ul>
-                  <li><b>Tours: </b></li>
-                  <ul>
-                    <li><i>The Supreme Court does not offer guided walking tours,</i> visitors are encouraged to tour public portions of the building on a self-guided basis and take advantage of a variety of educational programs, including Courtroom Lectures, a Visitor Film, and court-related Exhibitions. In addition to the Courtroom, portions of the first and ground floors are open to the public. Highlights include the John Marshall statue, portraits and busts of former Justices, and two self-supporting marble staircases. The Courtroom is located on the first floor.</li>
-                    <li>Court sessions, including handing down of opinions are also open to the public. Courtroom seating is on a first-come, first-served basis. Visitors should be aware that the business of the Court may from time to time affect public access to the building or alter programming offered.</li>
-                  </ul>
-            </ul>
-    </ul>
+            
+                   <p><a href="https://www.supremecourt.gov/visiting/visiting.aspx" rel="nofollow" target="_blank">Supreme Court Tour Page</a></p>
+                   <p><b>Address: </b>1 First St NE, Washington, DC 20543</p>
+                   <p><b>Hours: </b>Monday – Friday: 9 a.m. – 4:30 p.m., Closed on Saturday and Sunday</p>
+                   <p><b>Prohibited Items: </b></p>
+                   
+						  <p>Be prepared to pass through security screening at your point of entry. To enter the building efficiently, please ask students to carry as pttle as possible on the day of their visit (backpacks, bags, etc.). All items are screened in x-ray machines and all visitors will be asked to pass through metal detectors.</p>
+                          <p><i>The Supreme Court is the highest court in the nation for all cases and controversies arising under the Constitution or laws of the United States; therefore, visitors are asked to follow a few general guidepnes:</i></p>
+                          
+                              <p>Be prepared to pass through security screening at your point of entry. All items must be screened in x-ray machines and all visitors will be asked to pass through metal detectors.</p>
+                              <p>Please tour the building quietly, as working offices are adjacent to pubpc hallways.</p>
+                              <p>No photography or audio/video recording is allowed inside the Courtroom.</p>
+                              <p>Smoking is prohibited inside the building.</p>
+                              <p>Consumption of food and beverages is permitted only in the Cafeteria and vending machine alcove.</p>
+                              <p>Touching of portraits, busts, or other artifacts on exhibit is strictly prohibited.</p>
+                              <p>Any visitors unable to maintain proper behavior will be asked to leave by the Supreme Court Popce.</p>
+                         
+                  
+                  <p><b>Tours: </b></p>
+                  
+                    <p><i>The Supreme Court does not offer guided walking tours,</i> visitors are encouraged to tour pubpc portions of the building on a self-guided basis and take advantage of a variety of educational programs, including Courtroom Lectures, a Visitor Film, and court-related Exhibitions. In addition to the Courtroom, portions of the first and ground floors are open to the pubpc. Highpghts include the John Marshall statue, portraits and busts of former Justices, and two self-supporting marble staircases. The Courtroom is located on the first floor.</p>
+                    <p>Court sessions, including handing down of opinions are also open to the pubpc. Courtroom seating is on a first-come, first-served basis. Visitors should be aware that the business of the Court may from time to time affect pubpc access to the building or alter programming offered.</p>
+                  <hr/>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
     </div>
