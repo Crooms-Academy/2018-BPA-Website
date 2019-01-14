@@ -118,10 +118,10 @@ const smithsonianWindow = () => (
                   <p>Service animals are welcome in the museums and the National Zoo. Pets are not permitted.</p>
                   <p><i>Some museums require visitors and/or bags to go through metal detectors or x-ray screenings. Please refer to the specific museum bellow to determine their policies. Those who are unable to go through the metal detector will be hand-screened with an electronic wand by security personnel.</i></p>
               <h2 color="#D6BA8A"><b>While on Smithsonian Property</b></h2>
-                        <p>Do not Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms apppes to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are repgious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</p>
+                        <p>Do not Carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed on the premises. The prohibition on firearms applies to all visitors, including those with firearm permits, but not to active law enforcement personnel authorized to carry firearms. Note: Kirpans (ceremonial knives) are religious articles of faith often worn by Sikhs. These knives are permitted in the museums as long as the blades are 2.5 inches or less in length, consistent with federal law (18 USC 930)</p>
                         <p>Do not Display or carry placards, signs, or banners</p>
                         <p>Do not Destroy, damage, or remove property</p>
-                        <p>Do not Cpmb upon any part of a building</p>
+                        <p>Do not Climb upon any part of a building</p>
                         <p>Do not Use loud, abusive, or otherwise improper language</p>
                         <p>Do not Loiter, sleep, or participate in unwarranted assembpes</p>
                         <p>Do not Create any hazard to persons or things</p>
@@ -130,7 +130,7 @@ const smithsonianWindow = () => (
                         <p>Do not Use, possess, or sell illegal drugs</p>
                         <p>Do not Bring dogs or other animals, other than service animals</p>
                         <p>Do not Take photographs for advertising or any other commercial purpose</p>
-                        <p>Do not Sopcit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</p>
+                        <p>Do not Solicit for commercial or charitable purposes or distribute advertisements, pamphlets, handbills, and flyers</p>
              <h2 color="#D6BA8A"><b>Museums</b></h2>
 	    <p><b><i>African American Museum</i></b></p>
              	  <p><b>Address: </b>1400 Constitution Ave NW, Washington, DC</p>
@@ -225,9 +225,9 @@ const smithsonianWindow = () => (
                         <p>Go over, under, between, or otherwise cross any guardrail, fence, moat, wall, or any other safety barrier</p>
                         <p>Seat, stand, or hold children over any safety barrier</p>
                         <p>Throw or toss rocks, or any other missiles into, from, or while on premises</p>
-                        <p>Bring strollers, baby carriages, or other conveyances, except wheel chairs, into exhibit buildings and pubpc restrooms</p>
+                        <p>Bring strollers, baby carriages, or other conveyances, except wheel chairs, into exhibit buildings and public restrooms</p>
                         <p>Engage in ball games, or any athletic activity, except in places as may be officially designated for such purposes</p>
-                        <p>Smoke or carry pghted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises</p>
+                        <p>Smoke or carry lighted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises</p>
                         <p>Damage, deface, pick, or remove any herb, shrub, bush, tree, or turf, or portion thereof</p>
                  <hr/> 
              
@@ -256,7 +256,7 @@ const smithsonianWindow = () => (
                   <p><b>Address: </b>1661 Pennsylvania Avenue, NW Washington, DC</p>
                   <p><b>Hours: </b>10:00 a.m. - 5:30 p.m.</p>
                   <p><i>All bags will be checked by hand.</i></p>
-                  <p><b>*Note: </b>Strollers currently are not permitted in the Renwick galleries on Friday, Saturday and Sunday; hopdays; and at other times when the galleries are especially crowded. Stroller parking is available at the 17th Street accessible entrance. This temporary measure is to protect the artworks.</p>
+                  <p><b>*Note: </b>Strollers currently are not permitted in the Renwick galleries on Friday, Saturday and Sunday; holidays; and at other times when the galleries are especially crowded. Stroller parking is available at the 17th Street accessible entrance. This temporary measure is to protect the artworks.</p>
              <hr/>
              <p><b><i>S. Dillon Ripley Center</i></b></p>
              
@@ -319,15 +319,15 @@ const memorialsWindow = () => (
      <div>
      <h1 class="title" color="#D6BA8A">Memorials/Monuments</h1>
      <h2 class="h2ul" color="#D6BA8A">Arlington National Cemetery</h2>
-     <p><b><i>Women in Miptary Service for America Memorial</i></b></p>
+     <p><b><i>Women in Military Service for America Memorial</i></b></p>
             
-                   <p><b>Address: </b>Memorial Ave & Schley Dr, Arpngton, VA 22202</p>
+                   <p><b>Address: </b>Memorial Ave & Schley Dr, Arlington, VA 22202</p>
                    <p><b>Hours: </b>8am – 5pm</p>
             <hr/>
-            <p><b><i>Arpngton House (Robert E Lee Memorial)</i></b></p>
+            <p><b><i>Arlington House (Robert E Lee Memorial)</i></b></p>
             
                    <p><b>Address: </b>321 Sherman Dr, Fort Myer, VA 22211</p>
-                   <p><b>Hours: </b>CLOSED FOR REHABIpTATION</p>
+                   <p><b>Hours: </b>CLOSED FOR REHABILITATION</p>
             <hr/>
             <p><b><i>Tomb of the Unknowns</i></b></p>
             
@@ -336,7 +336,7 @@ const memorialsWindow = () => (
             <hr/>
             <p><b><i>U.S. Marine Corps War Memorial (Iwo Jima Memorial)</i></b></p>
             
-                   <p><b>Address: </b>Iwo Jima Memorial Access Rd, Arpngton, United States</p>
+                   <p><b>Address: </b>Iwo Jima Memorial Access Rd, Arlington, United States</p>
                    <p><b>Hours: </b>6 a.m. - 12 a.m.</p>
       <h2 class="h2ul" color="#D6BA8A">Tidal Basin</h2>
       <p><b><i>Thomas Jefferson Memorial</i></b></p>
@@ -344,7 +344,7 @@ const memorialsWindow = () => (
                    <p><b>Address: </b>701 E Basin Dr SW, Washington, DC 20242</p>
                    <p><b>Hours: </b>Open 24/7</p>
             <hr/>
-            <p><b><i>Frankpn Delano Roosevelt Memorial</i></b></p>
+            <p><b><i>Franklin Delano Roosevelt Memorial</i></b></p>
             
                    <p><b>Address: </b>1850 West Basin Dr SW, Washington, DC 20242</p>
                    <p><b>Hours: </b>Open 24/7</p>
@@ -356,7 +356,7 @@ const memorialsWindow = () => (
       <h2 class="h2ul" color="#D6BA8A">National Mall</h2>
       <p><b><i>Lincoln Memorial</i></b></p>
             
-                   <p><b>Address: </b>2 pncoln Memorial Cir NW, Washington, DC 20037</p>
+                   <p><b>Address: </b>2 Lincoln Memorial Cir NW, Washington, DC 20037</p>
                    <p><b>Hours: </b>Open 24/7</p>
             <hr/>
             <p><b><i>Korean War Veterans Memorial</i></b></p>
@@ -384,7 +384,7 @@ const memorialsWindow = () => (
                    <p><b>Address: </b>2 15th St NW, Washington, DC 20024</p>
                    <p><b>Hours: </b>9a.m. - 10p.m.</p>
             <hr/>
-            <p><b><i>The American Veterans Disabled for pfe Memorial</i></b></p>
+            <p><b><i>The American Veterans Disabled for Life Memorial</i></b></p>
             
                    <p><b>Address: </b>150 Washington Ave SW, Washington, DC 20024</p>
                    <p><b>Hours: </b>Open 24/7</p>
@@ -431,14 +431,14 @@ const governmentWindow = () => (
                           <p><i>Before entering the Capitol Visitor Center, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></p>
                           <p><i>The following items are strictly prohibited in the Capitol, including the Capitol Visitor Center:</i></p>
                           
-                                <p>pquid, including water</p>
+                                <p>Liquid, including water</p>
                                 <p>Food or beverages of any kind, including fruit and unopened packaged food</p>
                                 <p>Aerosol containers</p>
                                 <p>Non-aerosol spray (Prescriptions for medical needs are permitted.)</p>
                                 <p>Any pointed object, e.g. knitting needles and letter openers (Pens and pencils are permitted.)</p>
                                 <p>Any bag larger than 18" wide x 14" high x 8.5" deep</p>
                                 <p>Electric stun guns, martial arts weapons or devices</p>
-                                <p>Guns, reppca guns, ammunition, and fireworks</p>
+                                <p>Guns, replica guns, ammunition, and fireworks</p>
                                 <p>Knives of any size</p>
                                 <p>Mace and pepper spray</p>
                                 <p>Razors and box cutters</p>
@@ -458,9 +458,9 @@ const governmentWindow = () => (
                   <p><b>Tours: </b></p>
                   
                         <p><i>Advance reservations are recommended, but not required.</i></p>
-                        <p>Small groups (of 15 and fewer people) can <a href="https://tours.visitthecapitol.gov/cvc#.WqlNZijwaHs" rel="nofollow" target="_blank">cpck here</a> to create an account and reserve a tour date and time. <i>Reservations are available 90 days in advance.</i></p>
-                        <p>Tour services and organizations with groups of more than 15 participants should <a href="https://tours.visitthecapitol.gov/CVC/#.WqlNzyjwaHs" rel="nofollow" target="_blank">cpck here</a> to access the group section of the onpne reservation system. <i>Reservations for groups become available 120 days in advance.</i></p>
-                        <p>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some hopday periods, the availabipty of same-day tour passes may be pmited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></p>
+                        <p>Small groups (of 15 and fewer people) can <a href="https://tours.visitthecapitol.gov/cvc#.WqlNZijwaHs" rel="nofollow" target="_blank">click here</a> to create an account and reserve a tour date and time. <i>Reservations are available 90 days in advance.</i></p>
+                        <p>Tour services and organizations with groups of more than 15 participants should <a href="https://tours.visitthecapitol.gov/CVC/#.WqlNzyjwaHs" rel="nofollow" target="_blank">click here</a> to access the group section of the online reservation system. <i>Reservations for groups become available 120 days in advance.</i></p>
+                        <p>Same-day passes are available at the Information Desks located on the lower level of the Visitor Center. During spring, summer and some holiday periods, the availability of same-day tour passes may be limited. There may be a wait to acquire passes. <i>Please plan accordingly and arrive early, if possible.</i></p>
                   <hr/>
             <h2 class="attractionHeaders"><b><i>White House</i></b></h2>
             
@@ -470,7 +470,7 @@ const governmentWindow = () => (
                    <p><b>Prohibited Items: </b></p>
                    
                           <p><i>Before entering the White House, all visitors are screened by a magnetometer and all items that are permitted inside the building are screened by an x-ray device.</i></p>
-                          <p><i>Prohibited items include, but are not pmited to, the following:</i></p>
+                          <p><i>Prohibited items include, but are not limited to, the following:</i></p>
                           
                               <p>Video Recorders</p>
                               <p>Handbags, book bags, backpacks or purses</p>
@@ -480,22 +480,22 @@ const governmentWindow = () => (
                               <p>Aerosol containers</p>
                               <p>Guns, ammunition, fireworks, electric stun guns, mace, martial arts weapons/devices, or knives of any size</p>
                          
-                         <p>Smartphones and compact cameras with a lens no longer than 3 inches (stills only) are permitted on the pubpc tour route as long as their use does not interfere with other guests’ enjoyment of the tour.</p>
+                         <p>Smartphones and compact cameras with a lens no longer than 3 inches (stills only) are permitted on the public tour route as long as their use does not interfere with other guests’ enjoyment of the tour.</p>
 						 <p>Video cameras including any action camcorders, cameras with detachable lenses, tablets, tripods, monopods and camera sticks are not permitted.</p>
-						 <p>Flash photography or pve stream as well as talking or texting on cellular phones is not permitted while on the tour.</p>
+						 <p>Flash photography or live stream as well as talking or texting on cellular phones is not permitted while on the tour.</p>
 						 <p>The U.S. Secret Service reserves the right to prohibit any other personal items. Umbrellas, wallets, car keys, and cell phones (including those with cameras) are permitted. However, guests will not be allowed to use cell phones inside the White House. Phones used inside the White House may be confiscated by US Secret Service.</p>
-						 <p>Please note that no storage facipties are available on or around the complex. Individuals who arrive with prohibited items will not be permitted to enter the White House.</p>
+						 <p>Please note that no storage facilities are available on or around the complex. Individuals who arrive with prohibited items will not be permitted to enter the White House.</p>
                   
                   <p><b>Tours: </b></p>
                   
-                    <p><i>Pubpc tour requests MUST be submitted through one’s Member of Congress.</i></p>
+                    <p><i>Public tour requests MUST be submitted through one’s Member of Congress.</i></p>
                     <p>Tours are scheduled on a first come, first served basis.</p>
-                    <p>Requests can be submitted up to three months in advance and no less than 21 days in advance. You are encouraged to submit your request as early as possible as a pmited number of spaces are available.</p>
+                    <p>Requests can be submitted up to three months in advance and no less than 21 days in advance. You are encouraged to submit your request as early as possible as a limited number of spaces are available.</p>
                     <p><i>All White House tours are free of charge.</i></p>
-                    <p>All guests 18 years of age or older will be required to present a vapd, government-issued photo identification</p>
+                    <p>All guests 18 years of age or older will be required to present a valid, government-issued photo identification</p>
                     
-                          <p>Vapd government-issued United States identification card (e.g. drivers pcense, miptary ID, etc.)</p>
-                          <p>Vapd United States or other official government-issued passports</p>
+                          <p>Valid government-issued United States identification card (e.g. drivers license, military ID, etc.)</p>
+                          <p>Valid United States or other official government-issued passports</p>
 		<hr/>
 	<h2 class="attractionHeaders"><b><i>Supreme Court</i></b></h2>
             
@@ -504,22 +504,22 @@ const governmentWindow = () => (
                    <p><b>Hours: </b>Monday – Friday: 9 a.m. – 4:30 p.m., Closed on Saturday and Sunday</p>
                    <p><b>Prohibited Items: </b></p>
                    
-						  <p>Be prepared to pass through security screening at your point of entry. To enter the building efficiently, please ask students to carry as pttle as possible on the day of their visit (backpacks, bags, etc.). All items are screened in x-ray machines and all visitors will be asked to pass through metal detectors.</p>
-                          <p><i>The Supreme Court is the highest court in the nation for all cases and controversies arising under the Constitution or laws of the United States; therefore, visitors are asked to follow a few general guidepnes:</i></p>
+						  <p>Be prepared to pass through security screening at your point of entry. To enter the building efficiently, please ask students to carry as little as possible on the day of their visit (backpacks, bags, etc.). All items are screened in x-ray machines and all visitors will be asked to pass through metal detectors.</p>
+                          <p><i>The Supreme Court is the highest court in the nation for all cases and controversies arising under the Constitution or laws of the United States; therefore, visitors are asked to follow a few general guidelines:</i></p>
                           
                               <p>Be prepared to pass through security screening at your point of entry. All items must be screened in x-ray machines and all visitors will be asked to pass through metal detectors.</p>
-                              <p>Please tour the building quietly, as working offices are adjacent to pubpc hallways.</p>
+                              <p>Please tour the building quietly, as working offices are adjacent to public hallways.</p>
                               <p>No photography or audio/video recording is allowed inside the Courtroom.</p>
                               <p>Smoking is prohibited inside the building.</p>
                               <p>Consumption of food and beverages is permitted only in the Cafeteria and vending machine alcove.</p>
                               <p>Touching of portraits, busts, or other artifacts on exhibit is strictly prohibited.</p>
-                              <p>Any visitors unable to maintain proper behavior will be asked to leave by the Supreme Court Popce.</p>
+                              <p>Any visitors unable to maintain proper behavior will be asked to leave by the Supreme Court Police.</p>
                          
                   
                   <p><b>Tours: </b></p>
                   
-                    <p><i>The Supreme Court does not offer guided walking tours,</i> visitors are encouraged to tour pubpc portions of the building on a self-guided basis and take advantage of a variety of educational programs, including Courtroom Lectures, a Visitor Film, and court-related Exhibitions. In addition to the Courtroom, portions of the first and ground floors are open to the pubpc. Highpghts include the John Marshall statue, portraits and busts of former Justices, and two self-supporting marble staircases. The Courtroom is located on the first floor.</p>
-                    <p>Court sessions, including handing down of opinions are also open to the pubpc. Courtroom seating is on a first-come, first-served basis. Visitors should be aware that the business of the Court may from time to time affect pubpc access to the building or alter programming offered.</p>
+                    <p><i>The Supreme Court does not offer guided walking tours,</i> visitors are encouraged to tour public portions of the building on a self-guided basis and take advantage of a variety of educational programs, including Courtroom Lectures, a Visitor Film, and court-related Exhibitions. In addition to the Courtroom, portions of the first and ground floors are open to the public. Highlights include the John Marshall statue, portraits and busts of former Justices, and two self-supporting marble staircases. The Courtroom is located on the first floor.</p>
+                    <p>Court sessions, including handing down of opinions are also open to the public. Courtroom seating is on a first-come, first-served basis. Visitors should be aware that the business of the Court may from time to time affect public access to the building or alter programming offered.</p>
                   <hr/>
     <br/><br/><br/></div>
     <img class="Logo" src={Logo} />
