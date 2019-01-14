@@ -447,6 +447,7 @@ h3{
 .popupMetro{
 width: 90%;
 margin-left: -0%;
+overflow: auto;
 }
 
 * {
