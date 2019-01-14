@@ -418,7 +418,7 @@ const governmentWindow = () => (
            <div style={{ height: '300px' }} />
        </Parallax>
      <div class="divContent">
-     <div align="left">
+     <div>
      <h1 class="title" color="#D6BA8A">Government Buildings</h1>
     <p align="center"><i>Please be respectful of the appropriate etiquette at all times when on government grounds. Remember when at NLC you are not only representing your state and the national organization, but also yourself.</i></p>
     <h2 class="attractionHeaders"><b><i>United States Capital Building</i></b></h2>
